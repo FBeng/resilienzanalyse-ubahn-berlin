@@ -1,0 +1,4 @@
+networkx==3.6.1   # Graph, alle Metriken, Brücken
+numpy==2.5.2      # Distanzmatrix Block->Station, Median und Perzentile, Schrittdifferenzen (Kipppunkt)
+pyproj==3.7.2     # Koordinaten WGS84 (GTFS) -> EPSG:25833 (Blockdaten)
+matplotlib==3.10.9 # nur netvis.py: Netzkarte als SVG/PNG

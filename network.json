@@ -1,0 +1,3038 @@
+{
+ "max_dist_m": 960,
+ "stations": [
+  {
+   "id": "de:11000:900001201",
+   "name": "S+U Westhafen (Berlin)",
+   "lat": 52.536183,
+   "lon": 13.343837,
+   "pop": 5028
+  },
+  {
+   "id": "de:11000:900002201",
+   "name": "U Birkenstr. (Berlin)",
+   "lat": 52.532269,
+   "lon": 13.341418,
+   "pop": 20981
+  },
+  {
+   "id": "de:11000:900003101",
+   "name": "U Hansaplatz (Berlin)",
+   "lat": 52.518111,
+   "lon": 13.342165,
+   "pop": 12073
+  },
+  {
+   "id": "de:11000:900003104",
+   "name": "U Turmstr. (Berlin)",
+   "lat": 52.525938,
+   "lon": 13.341417,
+   "pop": 27004
+  },
+  {
+   "id": "de:11000:900003201",
+   "name": "S+U Berlin Hauptbahnhof",
+   "lat": 52.525605,
+   "lon": 13.369075,
+   "pop": 9470
+  },
+  {
+   "id": "de:11000:900003254",
+   "name": "U Bundestag (Berlin)",
+   "lat": 52.52011,
+   "lon": 13.372952,
+   "pop": 245
+  },
+  {
+   "id": "de:11000:900005201",
+   "name": "U Kurfürstenstr. (Berlin)",
+   "lat": 52.499778,
+   "lon": 13.362857,
+   "pop": 7323
+  },
+  {
+   "id": "de:11000:900005252",
+   "name": "U Mendelssohn-Bartholdy-Park (Berlin)",
+   "lat": 52.503185,
+   "lon": 13.374679,
+   "pop": 5220
+  },
+  {
+   "id": "de:11000:900007102",
+   "name": "S+U Gesundbrunnen Bhf (Berlin)",
+   "lat": 52.548637,
+   "lon": 13.388372,
+   "pop": 12319
+  },
+  {
+   "id": "de:11000:900007103",
+   "name": "U Voltastr. (Berlin)",
+   "lat": 52.54193,
+   "lon": 13.393157,
+   "pop": 12970
+  },
+  {
+   "id": "de:11000:900007110",
+   "name": "U Bernauer Str. (Berlin)",
+   "lat": 52.537994,
+   "lon": 13.396231,
+   "pop": 15408
+  },
+  {
+   "id": "de:11000:900008102",
+   "name": "U Reinickendorfer Str. (Berlin)",
+   "lat": 52.539887,
+   "lon": 13.370382,
+   "pop": 9707
+  },
+  {
+   "id": "de:11000:900009101",
+   "name": "U Amrumer Str. (Berlin)",
+   "lat": 52.542202,
+   "lon": 13.349534,
+   "pop": 12267
+  },
+  {
+   "id": "de:11000:900009102",
+   "name": "U Leopoldplatz (Berlin)",
+   "lat": 52.546493,
+   "lon": 13.359395,
+   "pop": 8932
+  },
+  {
+   "id": "de:11000:900009103",
+   "name": "U Seestr. (Berlin)",
+   "lat": 52.55047,
+   "lon": 13.351969,
+   "pop": 19149
+  },
+  {
+   "id": "de:11000:900009104",
+   "name": "S+U Wedding (Berlin)",
+   "lat": 52.542732,
+   "lon": 13.36606,
+   "pop": 9503
+  },
+  {
+   "id": "de:11000:900009201",
+   "name": "U Nauener Platz (Berlin)",
+   "lat": 52.551524,
+   "lon": 13.367365,
+   "pop": 19998
+  },
+  {
+   "id": "de:11000:900009202",
+   "name": "U Osloer Str. (Berlin)",
+   "lat": 52.557107,
+   "lon": 13.373279,
+   "pop": 15799
+  },
+  {
+   "id": "de:11000:900009203",
+   "name": "U Pankstr. (Berlin)",
+   "lat": 52.55228,
+   "lon": 13.381437,
+   "pop": 21002
+  },
+  {
+   "id": "de:11000:900011101",
+   "name": "U Rehberge (Berlin)",
+   "lat": 52.55667,
+   "lon": 13.341013,
+   "pop": 14189
+  },
+  {
+   "id": "de:11000:900011102",
+   "name": "U Afrikanische Str. (Berlin)",
+   "lat": 52.560862,
+   "lon": 13.333502,
+   "pop": 8799
+  },
+  {
+   "id": "de:11000:900012102",
+   "name": "U Kochstr. (Checkpoint Charlie) (Berlin)",
+   "lat": 52.506673,
+   "lon": 13.390863,
+   "pop": 9856
+  },
+  {
+   "id": "de:11000:900012103",
+   "name": "U Hallesches Tor (Berlin)",
+   "lat": 52.497774,
+   "lon": 13.39176,
+   "pop": 5489
+  },
+  {
+   "id": "de:11000:900013101",
+   "name": "U Moritzplatz (Berlin)",
+   "lat": 52.503739,
+   "lon": 13.410947,
+   "pop": 13376
+  },
+  {
+   "id": "de:11000:900013102",
+   "name": "U Kottbusser Tor (Berlin)",
+   "lat": 52.499047,
+   "lon": 13.417748,
+   "pop": 11699
+  },
+  {
+   "id": "de:11000:900013103",
+   "name": "U Prinzenstr. (Berlin)",
+   "lat": 52.498327,
+   "lon": 13.406551,
+   "pop": 12000
+  },
+  {
+   "id": "de:11000:900014101",
+   "name": "U Görlitzer Bahnhof (Berlin)",
+   "lat": 52.499145,
+   "lon": 13.427145,
+   "pop": 20844
+  },
+  {
+   "id": "de:11000:900014102",
+   "name": "U Schlesisches Tor (Berlin)",
+   "lat": 52.501147,
+   "lon": 13.441791,
+   "pop": 14943
+  },
+  {
+   "id": "de:11000:900016101",
+   "name": "U Gneisenaustr. (Berlin)",
+   "lat": 52.491252,
+   "lon": 13.395382,
+   "pop": 14270
+  },
+  {
+   "id": "de:11000:900016201",
+   "name": "U Schönleinstr. (Berlin)",
+   "lat": 52.493341,
+   "lon": 13.421912,
+   "pop": 15099
+  },
+  {
+   "id": "de:11000:900016202",
+   "name": "U Südstern (Berlin)",
+   "lat": 52.489219,
+   "lon": 13.407685,
+   "pop": 9161
+  },
+  {
+   "id": "de:11000:900017101",
+   "name": "U Mehringdamm (Berlin)",
+   "lat": 52.493567,
+   "lon": 13.38814,
+   "pop": 8096
+  },
+  {
+   "id": "de:11000:900017102",
+   "name": "U Platz der Luftbrücke (Berlin)",
+   "lat": 52.48487,
+   "lon": 13.385927,
+   "pop": 14948
+  },
+  {
+   "id": "de:11000:900017103",
+   "name": "U Gleisdreieck (Berlin)",
+   "lat": 52.499587,
+   "lon": 13.374293,
+   "pop": 2451
+  },
+  {
+   "id": "de:11000:900017104",
+   "name": "U Möckernbrücke (Berlin)",
+   "lat": 52.498944,
+   "lon": 13.383256,
+   "pop": 6181
+  },
+  {
+   "id": "de:11000:900018101",
+   "name": "U Jakob-Kaiser-Platz (Berlin)",
+   "lat": 52.536985,
+   "lon": 13.293661,
+   "pop": 7804
+  },
+  {
+   "id": "de:11000:900018102",
+   "name": "U Halemweg (Berlin)",
+   "lat": 52.536703,
+   "lon": 13.286578,
+   "pop": 7766
+  },
+  {
+   "id": "de:11000:900019204",
+   "name": "U Mierendorffplatz (Berlin)",
+   "lat": 52.525978,
+   "lon": 13.305715,
+   "pop": 15177
+  },
+  {
+   "id": "de:11000:900020201",
+   "name": "S+U Jungfernheide Bhf (Berlin)",
+   "lat": 52.530452,
+   "lon": 13.300124,
+   "pop": 3518
+  },
+  {
+   "id": "de:11000:900022101",
+   "name": "U Sophie-Charlotte-Platz (Berlin)",
+   "lat": 52.51097,
+   "lon": 13.297463,
+   "pop": 27301
+  },
+  {
+   "id": "de:11000:900022201",
+   "name": "U Deutsche Oper (Berlin)",
+   "lat": 52.511827,
+   "lon": 13.30942,
+   "pop": 7698
+  },
+  {
+   "id": "de:11000:900022202",
+   "name": "U Richard-Wagner-Platz (Berlin)",
+   "lat": 52.517154,
+   "lon": 13.307221,
+   "pop": 16399
+  },
+  {
+   "id": "de:11000:900023101",
+   "name": "U Ernst-Reuter-Platz (Berlin)",
+   "lat": 52.511582,
+   "lon": 13.322581,
+   "pop": 9982
+  },
+  {
+   "id": "de:11000:900023201",
+   "name": "S+U Zoologischer Garten Bhf (Berlin)",
+   "lat": 52.506921,
+   "lon": 13.332707,
+   "pop": 822
+  },
+  {
+   "id": "de:11000:900023202",
+   "name": "U Augsburger Str. (Berlin)",
+   "lat": 52.500442,
+   "lon": 13.336461,
+   "pop": 5156
+  },
+  {
+   "id": "de:11000:900023203",
+   "name": "U Kurfürstendamm (Berlin)",
+   "lat": 52.503763,
+   "lon": 13.331419,
+   "pop": 536
+  },
+  {
+   "id": "de:11000:900023301",
+   "name": "U Uhlandstr. (Berlin)",
+   "lat": 52.502742,
+   "lon": 13.326233,
+   "pop": 9244
+  },
+  {
+   "id": "de:11000:900023302",
+   "name": "U Adenauerplatz (Berlin)",
+   "lat": 52.500086,
+   "lon": 13.307348,
+   "pop": 21421
+  },
+  {
+   "id": "de:11000:900024201",
+   "name": "U Bismarckstr. (Berlin)",
+   "lat": 52.511543,
+   "lon": 13.305335,
+   "pop": 7013
+  },
+  {
+   "id": "de:11000:900024202",
+   "name": "U Wilmersdorfer Str. (Berlin)",
+   "lat": 52.506415,
+   "lon": 13.306774,
+   "pop": 12062
+  },
+  {
+   "id": "de:11000:900025202",
+   "name": "U Ruhleben (Berlin)",
+   "lat": 52.525587,
+   "lon": 13.241902,
+   "pop": 1245
+  },
+  {
+   "id": "de:11000:900025203",
+   "name": "U Olympia-Stadion (Berlin)",
+   "lat": 52.517048,
+   "lon": 13.2505,
+   "pop": 2781
+  },
+  {
+   "id": "de:11000:900026101",
+   "name": "U Neu-Westend (Berlin)",
+   "lat": 52.516409,
+   "lon": 13.25991,
+   "pop": 11304
+  },
+  {
+   "id": "de:11000:900026201",
+   "name": "U Theodor-Heuss-Platz (Berlin)",
+   "lat": 52.509798,
+   "lon": 13.272977,
+   "pop": 6952
+  },
+  {
+   "id": "de:11000:900026202",
+   "name": "U Kaiserdamm (Berlin)",
+   "lat": 52.509985,
+   "lon": 13.281695,
+   "pop": 14066
+  },
+  {
+   "id": "de:11000:900029301",
+   "name": "U Altstadt Spandau (Berlin)",
+   "lat": 52.539161,
+   "lon": 13.206763,
+   "pop": 12184
+  },
+  {
+   "id": "de:11000:900029302",
+   "name": "S+U Rathaus Spandau (Berlin)",
+   "lat": 52.535641,
+   "lon": 13.199837,
+   "pop": 14055
+  },
+  {
+   "id": "de:11000:900033101",
+   "name": "U Zitadelle (Berlin)",
+   "lat": 52.537522,
+   "lon": 13.217625,
+   "pop": 2083
+  },
+  {
+   "id": "de:11000:900034101",
+   "name": "U Paulsternstr. (Berlin)",
+   "lat": 52.538127,
+   "lon": 13.248065,
+   "pop": 4841
+  },
+  {
+   "id": "de:11000:900034102",
+   "name": "U Haselhorst (Berlin)",
+   "lat": 52.538687,
+   "lon": 13.231946,
+   "pop": 10182
+  },
+  {
+   "id": "de:11000:900035101",
+   "name": "U Siemensdamm (Berlin)",
+   "lat": 52.537026,
+   "lon": 13.273323,
+   "pop": 8797
+  },
+  {
+   "id": "de:11000:900036101",
+   "name": "U Rohrdamm (Berlin)",
+   "lat": 52.536904,
+   "lon": 13.26287,
+   "pop": 4568
+  },
+  {
+   "id": "de:11000:900041101",
+   "name": "U Fehrbelliner Platz (Berlin)",
+   "lat": 52.490365,
+   "lon": 13.314405,
+   "pop": 6172
+  },
+  {
+   "id": "de:11000:900041102",
+   "name": "U Blissestr. (Berlin)",
+   "lat": 52.486478,
+   "lon": 13.320545,
+   "pop": 11713
+  },
+  {
+   "id": "de:11000:900041201",
+   "name": "U Konstanzer Str. (Berlin)",
+   "lat": 52.493567,
+   "lon": 13.310084,
+   "pop": 12436
+  },
+  {
+   "id": "de:11000:900042101",
+   "name": "U Spichernstr. (Berlin)",
+   "lat": 52.496582,
+   "lon": 13.330613,
+   "pop": 4779
+  },
+  {
+   "id": "de:11000:900043101",
+   "name": "U Hohenzollernplatz (Berlin)",
+   "lat": 52.493833,
+   "lon": 13.324051,
+   "pop": 8637
+  },
+  {
+   "id": "de:11000:900043201",
+   "name": "U Güntzelstr. (Berlin)",
+   "lat": 52.491992,
+   "lon": 13.33121,
+   "pop": 5944
+  },
+  {
+   "id": "de:11000:900044201",
+   "name": "U Berliner Str. (Berlin)",
+   "lat": 52.487047,
+   "lon": 13.331355,
+   "pop": 10019
+  },
+  {
+   "id": "de:11000:900044202",
+   "name": "S+U Bundesplatz (Berlin)",
+   "lat": 52.477667,
+   "lon": 13.328626,
+   "pop": 14653
+  },
+  {
+   "id": "de:11000:900045101",
+   "name": "U Rüdesheimer Platz (Berlin)",
+   "lat": 52.472462,
+   "lon": 13.314387,
+   "pop": 13846
+  },
+  {
+   "id": "de:11000:900045102",
+   "name": "S+U Heidelberger Platz (Berlin)",
+   "lat": 52.480124,
+   "lon": 13.31229,
+   "pop": 7090
+  },
+  {
+   "id": "de:11000:900050201",
+   "name": "U Krumme Lanke (Berlin)",
+   "lat": 52.442615,
+   "lon": 13.24036,
+   "pop": 7991
+  },
+  {
+   "id": "de:11000:900050282",
+   "name": "U Onkel Toms Hütte (Berlin)",
+   "lat": 52.450146,
+   "lon": 13.254016,
+   "pop": 7311
+  },
+  {
+   "id": "de:11000:900051201",
+   "name": "U Freie Universität (Thielplatz) (Berlin)",
+   "lat": 52.451,
+   "lon": 13.281651,
+   "pop": 4138
+  },
+  {
+   "id": "de:11000:900051202",
+   "name": "U Breitenbachplatz (Berlin)",
+   "lat": 52.467342,
+   "lon": 13.309276,
+   "pop": 11365
+  },
+  {
+   "id": "de:11000:900051301",
+   "name": "U Oskar-Helene-Heim (Berlin)",
+   "lat": 52.450419,
+   "lon": 13.26891,
+   "pop": 6982
+  },
+  {
+   "id": "de:11000:900051302",
+   "name": "U Podbielskiallee (Berlin)",
+   "lat": 52.464172,
+   "lon": 13.295203,
+   "pop": 5486
+  },
+  {
+   "id": "de:11000:900051303",
+   "name": "U Dahlem-Dorf (Berlin)",
+   "lat": 52.457695,
+   "lon": 13.290011,
+   "pop": 2783
+  },
+  {
+   "id": "de:11000:900054101",
+   "name": "U Rathaus Schöneberg (Berlin)",
+   "lat": 52.483332,
+   "lon": 13.341989,
+   "pop": 9012
+  },
+  {
+   "id": "de:11000:900054102",
+   "name": "U Kleistpark (Berlin)",
+   "lat": 52.490686,
+   "lon": 13.360543,
+   "pop": 19902
+  },
+  {
+   "id": "de:11000:900054103",
+   "name": "U Eisenacher Str. (Berlin)",
+   "lat": 52.489477,
+   "lon": 13.350284,
+   "pop": 17122
+  },
+  {
+   "id": "de:11000:900054105",
+   "name": "S+U Innsbrucker Platz (Berlin)",
+   "lat": 52.4781,
+   "lon": 13.342875,
+   "pop": 15970
+  },
+  {
+   "id": "de:11000:900055101",
+   "name": "U Viktoria-Luise-Platz (Berlin)",
+   "lat": 52.496169,
+   "lon": 13.343264,
+   "pop": 10303
+  },
+  {
+   "id": "de:11000:900055102",
+   "name": "U Bayerischer Platz (Berlin)",
+   "lat": 52.488654,
+   "lon": 13.340237,
+   "pop": 8566
+  },
+  {
+   "id": "de:11000:900056101",
+   "name": "U Wittenbergplatz (Berlin)",
+   "lat": 52.502109,
+   "lon": 13.342561,
+   "pop": 6899
+  },
+  {
+   "id": "de:11000:900056102",
+   "name": "U Nollendorfplatz (Berlin)",
+   "lat": 52.499644,
+   "lon": 13.353825,
+   "pop": 12264
+  },
+  {
+   "id": "de:11000:900056104",
+   "name": "U Bülowstr. (Berlin)",
+   "lat": 52.497627,
+   "lon": 13.362456,
+   "pop": 8608
+  },
+  {
+   "id": "de:11000:900058103",
+   "name": "S+U Yorckstr. (Berlin)",
+   "lat": 52.492358,
+   "lon": 13.372212,
+   "pop": 10335
+  },
+  {
+   "id": "de:11000:900061101",
+   "name": "U Walther-Schreiber-Platz (Berlin)",
+   "lat": 52.464998,
+   "lon": 13.328409,
+   "pop": 19664
+  },
+  {
+   "id": "de:11000:900061102",
+   "name": "U Friedrich-Wilhelm-Platz (Berlin)",
+   "lat": 52.471439,
+   "lon": 13.328676,
+   "pop": 16407
+  },
+  {
+   "id": "de:11000:900062202",
+   "name": "S+U Rathaus Steglitz (Berlin)",
+   "lat": 52.455066,
+   "lon": 13.322152,
+   "pop": 21064
+  },
+  {
+   "id": "de:11000:900062203",
+   "name": "U Schloßstr. (Berlin)",
+   "lat": 52.461183,
+   "lon": 13.324836,
+   "pop": 13289
+  },
+  {
+   "id": "de:11000:900068101",
+   "name": "U Paradestr. (Berlin)",
+   "lat": 52.478142,
+   "lon": 13.386725,
+   "pop": 5169
+  },
+  {
+   "id": "de:11000:900068201",
+   "name": "S+U Tempelhof (Berlin)",
+   "lat": 52.470574,
+   "lon": 13.3859,
+   "pop": 4197
+  },
+  {
+   "id": "de:11000:900068202",
+   "name": "U Alt-Tempelhof (Berlin)",
+   "lat": 52.46593,
+   "lon": 13.385796,
+   "pop": 12403
+  },
+  {
+   "id": "de:11000:900068302",
+   "name": "U Kaiserin-Augusta-Str. (Berlin)",
+   "lat": 52.460512,
+   "lon": 13.384905,
+   "pop": 14307
+  },
+  {
+   "id": "de:11000:900069271",
+   "name": "U Ullsteinstr. (Berlin)",
+   "lat": 52.45345,
+   "lon": 13.384771,
+   "pop": 12024
+  },
+  {
+   "id": "de:11000:900070101",
+   "name": "U Westphalweg (Berlin)",
+   "lat": 52.445646,
+   "lon": 13.385744,
+   "pop": 17989
+  },
+  {
+   "id": "de:11000:900070301",
+   "name": "U Alt-Mariendorf (Berlin)",
+   "lat": 52.438609,
+   "lon": 13.38792,
+   "pop": 14677
+  },
+  {
+   "id": "de:11000:900078101",
+   "name": "U Hermannplatz (Berlin)",
+   "lat": 52.486957,
+   "lon": 13.42472,
+   "pop": 20726
+  },
+  {
+   "id": "de:11000:900078102",
+   "name": "U Rathaus Neukölln (Berlin)",
+   "lat": 52.481146,
+   "lon": 13.434807,
+   "pop": 26883
+  },
+  {
+   "id": "de:11000:900078103",
+   "name": "U Karl-Marx-Str. (Berlin)",
+   "lat": 52.476429,
+   "lon": 13.439805,
+   "pop": 20468
+  },
+  {
+   "id": "de:11000:900078201",
+   "name": "S+U Neukölln (Berlin)",
+   "lat": 52.469282,
+   "lon": 13.443692,
+   "pop": 16320
+  },
+  {
+   "id": "de:11000:900079201",
+   "name": "U Leinestr. (Berlin)",
+   "lat": 52.472874,
+   "lon": 13.4284,
+   "pop": 15761
+  },
+  {
+   "id": "de:11000:900079202",
+   "name": "U Boddinstr. (Berlin)",
+   "lat": 52.479745,
+   "lon": 13.425782,
+   "pop": 16692
+  },
+  {
+   "id": "de:11000:900079221",
+   "name": "S+U Hermannstr. (Berlin)",
+   "lat": 52.467181,
+   "lon": 13.431704,
+   "pop": 23069
+  },
+  {
+   "id": "de:11000:900080201",
+   "name": "U Blaschkoallee (Berlin)",
+   "lat": 52.452743,
+   "lon": 13.448976,
+   "pop": 9827
+  },
+  {
+   "id": "de:11000:900080202",
+   "name": "U Grenzallee (Berlin)",
+   "lat": 52.463516,
+   "lon": 13.444828,
+   "pop": 10630
+  },
+  {
+   "id": "de:11000:900080401",
+   "name": "U Parchimer Allee (Berlin)",
+   "lat": 52.445299,
+   "lon": 13.449967,
+   "pop": 10194
+  },
+  {
+   "id": "de:11000:900080402",
+   "name": "U Britz-Süd (Berlin)",
+   "lat": 52.437076,
+   "lon": 13.447668,
+   "pop": 7987
+  },
+  {
+   "id": "de:11000:900082201",
+   "name": "U Lipschitzallee (Berlin)",
+   "lat": 52.424645,
+   "lon": 13.463109,
+   "pop": 14797
+  },
+  {
+   "id": "de:11000:900082202",
+   "name": "U Johannisthaler Chaussee (Berlin)",
+   "lat": 52.429253,
+   "lon": 13.453851,
+   "pop": 13837
+  },
+  {
+   "id": "de:11000:900083101",
+   "name": "U Zwickauer Damm (Berlin)",
+   "lat": 52.423032,
+   "lon": 13.484371,
+   "pop": 7164
+  },
+  {
+   "id": "de:11000:900083102",
+   "name": "U Wutzkyallee (Berlin)",
+   "lat": 52.423152,
+   "lon": 13.47482,
+   "pop": 15487
+  },
+  {
+   "id": "de:11000:900083201",
+   "name": "U Rudow (Berlin)",
+   "lat": 52.415714,
+   "lon": 13.496527,
+   "pop": 12069
+  },
+  {
+   "id": "de:11000:900085104",
+   "name": "U Paracelsus-Bad (Berlin)",
+   "lat": 52.574432,
+   "lon": 13.347301,
+   "pop": 8214
+  },
+  {
+   "id": "de:11000:900085202",
+   "name": "U Franz-Neumann-Platz (Berlin)",
+   "lat": 52.563854,
+   "lon": 13.364283,
+   "pop": 20188
+  },
+  {
+   "id": "de:11000:900085203",
+   "name": "U Residenzstr. (Berlin)",
+   "lat": 52.570843,
+   "lon": 13.360635,
+   "pop": 18224
+  },
+  {
+   "id": "de:11000:900086102",
+   "name": "U Kurt-Schumacher-Platz (Berlin)",
+   "lat": 52.563483,
+   "lon": 13.327328,
+   "pop": 10273
+  },
+  {
+   "id": "de:11000:900086160",
+   "name": "U Lindauer Allee (Berlin)",
+   "lat": 52.575386,
+   "lon": 13.339036,
+   "pop": 4988
+  },
+  {
+   "id": "de:11000:900096101",
+   "name": "S+U Wittenau (Berlin)",
+   "lat": 52.596392,
+   "lon": 13.335481,
+   "pop": 14212
+  },
+  {
+   "id": "de:11000:900096410",
+   "name": "U Rathaus Reinickendorf (Berlin)",
+   "lat": 52.588218,
+   "lon": 13.325568,
+   "pop": 9095
+  },
+  {
+   "id": "de:11000:900096458",
+   "name": "S+U Karl-Bonhoeffer-Nervenklinik (Berlin)",
+   "lat": 52.578169,
+   "lon": 13.332921,
+   "pop": 8849
+  },
+  {
+   "id": "de:11000:900100001",
+   "name": "S+U Friedrichstr. Bhf (Berlin)",
+   "lat": 52.520304,
+   "lon": 13.387253,
+   "pop": 1793
+  },
+  {
+   "id": "de:11000:900100003",
+   "name": "S+U Alexanderplatz Bhf (Berlin)",
+   "lat": 52.521512,
+   "lon": 13.411267,
+   "pop": 4518
+  },
+  {
+   "id": "de:11000:900100004",
+   "name": "S+U Jannowitzbrücke (Berlin)",
+   "lat": 52.5155,
+   "lon": 13.418027,
+   "pop": 4392
+  },
+  {
+   "id": "de:11000:900100008",
+   "name": "U Heinrich-Heine-Str. (Berlin)",
+   "lat": 52.510558,
+   "lon": 13.416124,
+   "pop": 11099
+  },
+  {
+   "id": "de:11000:900100009",
+   "name": "U Naturkundemuseum (Berlin)",
+   "lat": 52.531254,
+   "lon": 13.382415,
+   "pop": 6784
+  },
+  {
+   "id": "de:11000:900100010",
+   "name": "U Anton-Wilhelm-Amo-Str. (Berlin)",
+   "lat": 52.511519,
+   "lon": 13.383798,
+   "pop": 2187
+  },
+  {
+   "id": "de:11000:900100011",
+   "name": "U Stadtmitte (Berlin)",
+   "lat": 52.511495,
+   "lon": 13.389719,
+   "pop": 1326
+  },
+  {
+   "id": "de:11000:900100012",
+   "name": "U Hausvogteiplatz (Berlin)",
+   "lat": 52.513361,
+   "lon": 13.395346,
+   "pop": 2600
+  },
+  {
+   "id": "de:11000:900100013",
+   "name": "U Spittelmarkt (Berlin)",
+   "lat": 52.511411,
+   "lon": 13.402031,
+   "pop": 4805
+  },
+  {
+   "id": "de:11000:900100014",
+   "name": "U Märkisches Museum (Berlin)",
+   "lat": 52.512007,
+   "lon": 13.408767,
+   "pop": 6024
+  },
+  {
+   "id": "de:11000:900100015",
+   "name": "U Klosterstr. (Berlin)",
+   "lat": 52.517229,
+   "lon": 13.412455,
+   "pop": 523
+  },
+  {
+   "id": "de:11000:900100016",
+   "name": "U Rosa-Luxemburg-Platz (Berlin)",
+   "lat": 52.528191,
+   "lon": 13.410405,
+   "pop": 8310
+  },
+  {
+   "id": "de:11000:900100017",
+   "name": "U Schillingstr. (Berlin)",
+   "lat": 52.520316,
+   "lon": 13.421895,
+   "pop": 11403
+  },
+  {
+   "id": "de:11000:900100019",
+   "name": "U Oranienburger Tor (Berlin)",
+   "lat": 52.525163,
+   "lon": 13.387587,
+   "pop": 7542
+  },
+  {
+   "id": "de:11000:900100020",
+   "name": "S+U Potsdamer Platz Bhf (Berlin)",
+   "lat": 52.509358,
+   "lon": 13.376547,
+   "pop": 1658
+  },
+  {
+   "id": "de:11000:900100023",
+   "name": "U Rosenthaler Platz (Berlin)",
+   "lat": 52.529781,
+   "lon": 13.401393,
+   "pop": 11123
+  },
+  {
+   "id": "de:11000:900100025",
+   "name": "S+U Brandenburger Tor (Berlin)",
+   "lat": 52.516511,
+   "lon": 13.381937,
+   "pop": 245
+  },
+  {
+   "id": "de:11000:900100045",
+   "name": "U Rotes Rathaus (Berlin)",
+   "lat": 52.518462,
+   "lon": 13.407061,
+   "pop": 1171
+  },
+  {
+   "id": "de:11000:900100051",
+   "name": "U Weinmeisterstr. (Berlin)",
+   "lat": 52.525376,
+   "lon": 13.405305,
+   "pop": 7277
+  },
+  {
+   "id": "de:11000:900100501",
+   "name": "U Schwartzkopffstr. (Berlin)",
+   "lat": 52.535397,
+   "lon": 13.377033,
+   "pop": 11211
+  },
+  {
+   "id": "de:11000:900100513",
+   "name": "U Unter den Linden (Berlin)",
+   "lat": 52.516996,
+   "lon": 13.388876,
+   "pop": 698
+  },
+  {
+   "id": "de:11000:900100537",
+   "name": "U Museumsinsel (Berlin)",
+   "lat": 52.518086,
+   "lon": 13.400394,
+   "pop": 324
+  },
+  {
+   "id": "de:11000:900110001",
+   "name": "S+U Schönhauser Allee (Berlin)",
+   "lat": 52.549336,
+   "lon": 13.415138,
+   "pop": 48697
+  },
+  {
+   "id": "de:11000:900110005",
+   "name": "U Senefelderplatz (Berlin)",
+   "lat": 52.532622,
+   "lon": 13.412625,
+   "pop": 22823
+  },
+  {
+   "id": "de:11000:900110006",
+   "name": "U Eberswalder Str. (Berlin)",
+   "lat": 52.541085,
+   "lon": 13.41216,
+   "pop": 26475
+  },
+  {
+   "id": "de:11000:900120001",
+   "name": "S+U Frankfurter Allee (Berlin)",
+   "lat": 52.51358,
+   "lon": 13.475848,
+   "pop": 19155
+  },
+  {
+   "id": "de:11000:900120004",
+   "name": "S+U Warschauer Str. (Berlin)",
+   "lat": 52.505765,
+   "lon": 13.449159,
+   "pop": 14024
+  },
+  {
+   "id": "de:11000:900120006",
+   "name": "U Strausberger Platz (Berlin)",
+   "lat": 52.518025,
+   "lon": 13.432208,
+   "pop": 17606
+  },
+  {
+   "id": "de:11000:900120008",
+   "name": "U Frankfurter Tor (Berlin)",
+   "lat": 52.515772,
+   "lon": 13.454085,
+   "pop": 25414
+  },
+  {
+   "id": "de:11000:900120009",
+   "name": "U Samariterstr. (Berlin)",
+   "lat": 52.514662,
+   "lon": 13.465347,
+   "pop": 36076
+  },
+  {
+   "id": "de:11000:900120025",
+   "name": "U Weberwiese (Berlin)",
+   "lat": 52.516848,
+   "lon": 13.443278,
+   "pop": 20543
+  },
+  {
+   "id": "de:11000:900130002",
+   "name": "S+U Pankow (Berlin)",
+   "lat": 52.567281,
+   "lon": 13.412279,
+   "pop": 28886
+  },
+  {
+   "id": "de:11000:900130011",
+   "name": "U Vinetastr. (Berlin)",
+   "lat": 52.559517,
+   "lon": 13.41377,
+   "pop": 25453
+  },
+  {
+   "id": "de:11000:900160004",
+   "name": "S+U Lichtenberg Bhf (Berlin)",
+   "lat": 52.510672,
+   "lon": 13.498359,
+   "pop": 25040
+  },
+  {
+   "id": "de:11000:900160005",
+   "name": "U Magdalenenstr. (Berlin)",
+   "lat": 52.512457,
+   "lon": 13.487492,
+   "pop": 15573
+  },
+  {
+   "id": "de:11000:900161002",
+   "name": "U Tierpark (Berlin)",
+   "lat": 52.497236,
+   "lon": 13.523626,
+   "pop": 17410
+  },
+  {
+   "id": "de:11000:900161512",
+   "name": "U Friedrichsfelde (Berlin)",
+   "lat": 52.505464,
+   "lon": 13.513544,
+   "pop": 24452
+  },
+  {
+   "id": "de:11000:900171005",
+   "name": "U Biesdorf-Süd (Berlin)",
+   "lat": 52.499517,
+   "lon": 13.547326,
+   "pop": 4476
+  },
+  {
+   "id": "de:11000:900171006",
+   "name": "U Elsterwerdaer Platz (Berlin)",
+   "lat": 52.505133,
+   "lon": 13.560646,
+   "pop": 7534
+  },
+  {
+   "id": "de:11000:900175001",
+   "name": "S+U Wuhletal (Berlin)",
+   "lat": 52.512724,
+   "lon": 13.574536,
+   "pop": 4586
+  },
+  {
+   "id": "de:11000:900175004",
+   "name": "U Kaulsdorf-Nord (Berlin)",
+   "lat": 52.521436,
+   "lon": 13.588763,
+   "pop": 18557
+  },
+  {
+   "id": "de:11000:900175005",
+   "name": "U Kienberg (Gärten der Welt) (Berlin)",
+   "lat": 52.52849,
+   "lon": 13.59055,
+   "pop": 6784
+  },
+  {
+   "id": "de:11000:900175006",
+   "name": "U Cottbusser Platz (Berlin)",
+   "lat": 52.533963,
+   "lon": 13.596894,
+   "pop": 14787
+  },
+  {
+   "id": "de:11000:900175007",
+   "name": "U Hellersdorf (Berlin)",
+   "lat": 52.536328,
+   "lon": 13.605323,
+   "pop": 27239
+  },
+  {
+   "id": "de:11000:900175010",
+   "name": "U Hönow (Berlin)",
+   "lat": 52.538105,
+   "lon": 13.634541,
+   "pop": 124
+  },
+  {
+   "id": "de:11000:900175015",
+   "name": "U Louis-Lewin-Str. (Berlin)",
+   "lat": 52.539135,
+   "lon": 13.619707,
+   "pop": 13945
+  }
+ ],
+ "edges": [
+  {
+   "stationA": "de:11000:900001201",
+   "stationB": "de:11000:900002201",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 13004,
+   "demand": 0.170851
+  },
+  {
+   "stationA": "de:11000:900001201",
+   "stationB": "de:11000:900009101",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 8648,
+   "demand": 0.11251
+  },
+  {
+   "stationA": "de:11000:900002201",
+   "stationB": "de:11000:900003104",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 23992,
+   "demand": 0.317982
+  },
+  {
+   "stationA": "de:11000:900003101",
+   "stationB": "de:11000:900003104",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 19538,
+   "demand": 0.258342
+  },
+  {
+   "stationA": "de:11000:900003101",
+   "stationB": "de:11000:900023201",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6448,
+   "demand": 0.083052
+  },
+  {
+   "stationA": "de:11000:900003201",
+   "stationB": "de:11000:900003254",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 4858,
+   "demand": 0.061762
+  },
+  {
+   "stationA": "de:11000:900003254",
+   "stationB": "de:11000:900100025",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 245,
+   "demand": 0.0
+  },
+  {
+   "stationA": "de:11000:900005201",
+   "stationB": "de:11000:900017103",
+   "lines": [
+    "U1",
+    "U3"
+   ],
+   "n_lines": 2,
+   "pop_mean": 4887,
+   "demand": 0.312157
+  },
+  {
+   "stationA": "de:11000:900005201",
+   "stationB": "de:11000:900056102",
+   "lines": [
+    "U1",
+    "U3"
+   ],
+   "n_lines": 2,
+   "pop_mean": 9794,
+   "demand": 0.377855
+  },
+  {
+   "stationA": "de:11000:900005252",
+   "stationB": "de:11000:900017103",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 3836,
+   "demand": 0.048077
+  },
+  {
+   "stationA": "de:11000:900005252",
+   "stationB": "de:11000:900100020",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 3439,
+   "demand": 0.042768
+  },
+  {
+   "stationA": "de:11000:900007102",
+   "stationB": "de:11000:900007103",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 12644,
+   "demand": 0.166031
+  },
+  {
+   "stationA": "de:11000:900007102",
+   "stationB": "de:11000:900009203",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 16660,
+   "demand": 0.219805
+  },
+  {
+   "stationA": "de:11000:900007103",
+   "stationB": "de:11000:900007110",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 14189,
+   "demand": 0.186712
+  },
+  {
+   "stationA": "de:11000:900007110",
+   "stationB": "de:11000:900100023",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 13266,
+   "demand": 0.174346
+  },
+  {
+   "stationA": "de:11000:900008102",
+   "stationB": "de:11000:900009104",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9605,
+   "demand": 0.125331
+  },
+  {
+   "stationA": "de:11000:900008102",
+   "stationB": "de:11000:900100501",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10459,
+   "demand": 0.136767
+  },
+  {
+   "stationA": "de:11000:900009101",
+   "stationB": "de:11000:900009102",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10600,
+   "demand": 0.138648
+  },
+  {
+   "stationA": "de:11000:900009102",
+   "stationB": "de:11000:900009103",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 14040,
+   "demand": 0.184723
+  },
+  {
+   "stationA": "de:11000:900009102",
+   "stationB": "de:11000:900009104",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9218,
+   "demand": 0.120143
+  },
+  {
+   "stationA": "de:11000:900009102",
+   "stationB": "de:11000:900009201",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 14465,
+   "demand": 0.190407
+  },
+  {
+   "stationA": "de:11000:900009103",
+   "stationB": "de:11000:900011101",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 16669,
+   "demand": 0.219919
+  },
+  {
+   "stationA": "de:11000:900009201",
+   "stationB": "de:11000:900009202",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 17898,
+   "demand": 0.236382
+  },
+  {
+   "stationA": "de:11000:900009202",
+   "stationB": "de:11000:900009203",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 18400,
+   "demand": 0.243104
+  },
+  {
+   "stationA": "de:11000:900009202",
+   "stationB": "de:11000:900085202",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 17994,
+   "demand": 0.237654
+  },
+  {
+   "stationA": "de:11000:900011101",
+   "stationB": "de:11000:900011102",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 11494,
+   "demand": 0.150625
+  },
+  {
+   "stationA": "de:11000:900011102",
+   "stationB": "de:11000:900086102",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9536,
+   "demand": 0.124407
+  },
+  {
+   "stationA": "de:11000:900012102",
+   "stationB": "de:11000:900012103",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7672,
+   "demand": 0.099455
+  },
+  {
+   "stationA": "de:11000:900012102",
+   "stationB": "de:11000:900100011",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 5591,
+   "demand": 0.071584
+  },
+  {
+   "stationA": "de:11000:900012103",
+   "stationB": "de:11000:900013103",
+   "lines": [
+    "U1",
+    "U3"
+   ],
+   "n_lines": 2,
+   "pop_mean": 8744,
+   "demand": 0.363809
+  },
+  {
+   "stationA": "de:11000:900012103",
+   "stationB": "de:11000:900017101",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6792,
+   "demand": 0.087672
+  },
+  {
+   "stationA": "de:11000:900012103",
+   "stationB": "de:11000:900017104",
+   "lines": [
+    "U1",
+    "U3"
+   ],
+   "n_lines": 2,
+   "pop_mean": 5835,
+   "demand": 0.324851
+  },
+  {
+   "stationA": "de:11000:900013101",
+   "stationB": "de:11000:900013102",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 12538,
+   "demand": 0.164598
+  },
+  {
+   "stationA": "de:11000:900013101",
+   "stationB": "de:11000:900100008",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 12238,
+   "demand": 0.160581
+  },
+  {
+   "stationA": "de:11000:900013102",
+   "stationB": "de:11000:900013103",
+   "lines": [
+    "U1",
+    "U3"
+   ],
+   "n_lines": 2,
+   "pop_mean": 11850,
+   "demand": 0.405386
+  },
+  {
+   "stationA": "de:11000:900013102",
+   "stationB": "de:11000:900014101",
+   "lines": [
+    "U1",
+    "U3"
+   ],
+   "n_lines": 2,
+   "pop_mean": 16272,
+   "demand": 0.464597
+  },
+  {
+   "stationA": "de:11000:900013102",
+   "stationB": "de:11000:900016201",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 13399,
+   "demand": 0.176133
+  },
+  {
+   "stationA": "de:11000:900014101",
+   "stationB": "de:11000:900014102",
+   "lines": [
+    "U1",
+    "U3"
+   ],
+   "n_lines": 2,
+   "pop_mean": 17894,
+   "demand": 0.486315
+  },
+  {
+   "stationA": "de:11000:900014102",
+   "stationB": "de:11000:900120004",
+   "lines": [
+    "U1",
+    "U3"
+   ],
+   "n_lines": 2,
+   "pop_mean": 14484,
+   "demand": 0.440655
+  },
+  {
+   "stationA": "de:11000:900016101",
+   "stationB": "de:11000:900016202",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 11716,
+   "demand": 0.153591
+  },
+  {
+   "stationA": "de:11000:900016101",
+   "stationB": "de:11000:900017101",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 11183,
+   "demand": 0.146461
+  },
+  {
+   "stationA": "de:11000:900016201",
+   "stationB": "de:11000:900078101",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 17912,
+   "demand": 0.23657
+  },
+  {
+   "stationA": "de:11000:900016202",
+   "stationB": "de:11000:900078101",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 14944,
+   "demand": 0.196814
+  },
+  {
+   "stationA": "de:11000:900017101",
+   "stationB": "de:11000:900017102",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 11522,
+   "demand": 0.151
+  },
+  {
+   "stationA": "de:11000:900017101",
+   "stationB": "de:11000:900017104",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7138,
+   "demand": 0.092305
+  },
+  {
+   "stationA": "de:11000:900017102",
+   "stationB": "de:11000:900068101",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10058,
+   "demand": 0.131404
+  },
+  {
+   "stationA": "de:11000:900017103",
+   "stationB": "de:11000:900017104",
+   "lines": [
+    "U1",
+    "U3"
+   ],
+   "n_lines": 2,
+   "pop_mean": 4316,
+   "demand": 0.304511
+  },
+  {
+   "stationA": "de:11000:900017103",
+   "stationB": "de:11000:900056104",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 5530,
+   "demand": 0.07076
+  },
+  {
+   "stationA": "de:11000:900017104",
+   "stationB": "de:11000:900058103",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 8258,
+   "demand": 0.107295
+  },
+  {
+   "stationA": "de:11000:900018101",
+   "stationB": "de:11000:900018102",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7785,
+   "demand": 0.100961
+  },
+  {
+   "stationA": "de:11000:900018101",
+   "stationB": "de:11000:900020201",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 5661,
+   "demand": 0.072521
+  },
+  {
+   "stationA": "de:11000:900018102",
+   "stationB": "de:11000:900035101",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 8282,
+   "demand": 0.10761
+  },
+  {
+   "stationA": "de:11000:900019204",
+   "stationB": "de:11000:900020201",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9348,
+   "demand": 0.121883
+  },
+  {
+   "stationA": "de:11000:900019204",
+   "stationB": "de:11000:900022202",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 15788,
+   "demand": 0.208122
+  },
+  {
+   "stationA": "de:11000:900022101",
+   "stationB": "de:11000:900024201",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 17157,
+   "demand": 0.226453
+  },
+  {
+   "stationA": "de:11000:900022101",
+   "stationB": "de:11000:900026202",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 20684,
+   "demand": 0.273674
+  },
+  {
+   "stationA": "de:11000:900022201",
+   "stationB": "de:11000:900023101",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 8840,
+   "demand": 0.115088
+  },
+  {
+   "stationA": "de:11000:900022201",
+   "stationB": "de:11000:900024201",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7356,
+   "demand": 0.09521
+  },
+  {
+   "stationA": "de:11000:900022202",
+   "stationB": "de:11000:900024201",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 11706,
+   "demand": 0.153464
+  },
+  {
+   "stationA": "de:11000:900023101",
+   "stationB": "de:11000:900023201",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 5402,
+   "demand": 0.069053
+  },
+  {
+   "stationA": "de:11000:900023201",
+   "stationB": "de:11000:900023203",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 679,
+   "demand": 0.005811
+  },
+  {
+   "stationA": "de:11000:900023201",
+   "stationB": "de:11000:900056101",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 3860,
+   "demand": 0.048412
+  },
+  {
+   "stationA": "de:11000:900023202",
+   "stationB": "de:11000:900042101",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 4968,
+   "demand": 0.063235
+  },
+  {
+   "stationA": "de:11000:900023202",
+   "stationB": "de:11000:900056101",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6028,
+   "demand": 0.077428
+  },
+  {
+   "stationA": "de:11000:900023203",
+   "stationB": "de:11000:900023301",
+   "lines": [
+    "U1"
+   ],
+   "n_lines": 1,
+   "pop_mean": 4890,
+   "demand": 0.062197
+  },
+  {
+   "stationA": "de:11000:900023203",
+   "stationB": "de:11000:900042101",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 2658,
+   "demand": 0.032304
+  },
+  {
+   "stationA": "de:11000:900023203",
+   "stationB": "de:11000:900056101",
+   "lines": [
+    "U1"
+   ],
+   "n_lines": 1,
+   "pop_mean": 3718,
+   "demand": 0.046497
+  },
+  {
+   "stationA": "de:11000:900023302",
+   "stationB": "de:11000:900024202",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 16742,
+   "demand": 0.22089
+  },
+  {
+   "stationA": "de:11000:900023302",
+   "stationB": "de:11000:900041201",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 16928,
+   "demand": 0.223394
+  },
+  {
+   "stationA": "de:11000:900024201",
+   "stationB": "de:11000:900024202",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9538,
+   "demand": 0.124428
+  },
+  {
+   "stationA": "de:11000:900025202",
+   "stationB": "de:11000:900025203",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 2013,
+   "demand": 0.023674
+  },
+  {
+   "stationA": "de:11000:900025203",
+   "stationB": "de:11000:900026101",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7042,
+   "demand": 0.091019
+  },
+  {
+   "stationA": "de:11000:900026101",
+   "stationB": "de:11000:900026201",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9128,
+   "demand": 0.118944
+  },
+  {
+   "stationA": "de:11000:900026201",
+   "stationB": "de:11000:900026202",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10509,
+   "demand": 0.137436
+  },
+  {
+   "stationA": "de:11000:900029301",
+   "stationB": "de:11000:900029302",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 13120,
+   "demand": 0.172391
+  },
+  {
+   "stationA": "de:11000:900029301",
+   "stationB": "de:11000:900033101",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7134,
+   "demand": 0.092238
+  },
+  {
+   "stationA": "de:11000:900033101",
+   "stationB": "de:11000:900034102",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6132,
+   "demand": 0.078834
+  },
+  {
+   "stationA": "de:11000:900034101",
+   "stationB": "de:11000:900034102",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7512,
+   "demand": 0.097299
+  },
+  {
+   "stationA": "de:11000:900034101",
+   "stationB": "de:11000:900036101",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 4704,
+   "demand": 0.059713
+  },
+  {
+   "stationA": "de:11000:900035101",
+   "stationB": "de:11000:900036101",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6682,
+   "demand": 0.086199
+  },
+  {
+   "stationA": "de:11000:900041101",
+   "stationB": "de:11000:900041102",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 8942,
+   "demand": 0.11646
+  },
+  {
+   "stationA": "de:11000:900041101",
+   "stationB": "de:11000:900041201",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9304,
+   "demand": 0.121301
+  },
+  {
+   "stationA": "de:11000:900041101",
+   "stationB": "de:11000:900043101",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7404,
+   "demand": 0.095866
+  },
+  {
+   "stationA": "de:11000:900041101",
+   "stationB": "de:11000:900045102",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6631,
+   "demand": 0.085509
+  },
+  {
+   "stationA": "de:11000:900041102",
+   "stationB": "de:11000:900044201",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10866,
+   "demand": 0.142216
+  },
+  {
+   "stationA": "de:11000:900042101",
+   "stationB": "de:11000:900043101",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6708,
+   "demand": 0.08654
+  },
+  {
+   "stationA": "de:11000:900042101",
+   "stationB": "de:11000:900043201",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 5362,
+   "demand": 0.06851
+  },
+  {
+   "stationA": "de:11000:900043201",
+   "stationB": "de:11000:900044201",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7982,
+   "demand": 0.103593
+  },
+  {
+   "stationA": "de:11000:900044201",
+   "stationB": "de:11000:900044202",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 12336,
+   "demand": 0.1619
+  },
+  {
+   "stationA": "de:11000:900044201",
+   "stationB": "de:11000:900055102",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9292,
+   "demand": 0.121147
+  },
+  {
+   "stationA": "de:11000:900044202",
+   "stationB": "de:11000:900061102",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 15530,
+   "demand": 0.204668
+  },
+  {
+   "stationA": "de:11000:900045101",
+   "stationB": "de:11000:900045102",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10468,
+   "demand": 0.136887
+  },
+  {
+   "stationA": "de:11000:900045101",
+   "stationB": "de:11000:900051202",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 12606,
+   "demand": 0.165508
+  },
+  {
+   "stationA": "de:11000:900050201",
+   "stationB": "de:11000:900050282",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7651,
+   "demand": 0.099167
+  },
+  {
+   "stationA": "de:11000:900050282",
+   "stationB": "de:11000:900051301",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7146,
+   "demand": 0.092412
+  },
+  {
+   "stationA": "de:11000:900051201",
+   "stationB": "de:11000:900051301",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 5560,
+   "demand": 0.071168
+  },
+  {
+   "stationA": "de:11000:900051201",
+   "stationB": "de:11000:900051303",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 3460,
+   "demand": 0.043056
+  },
+  {
+   "stationA": "de:11000:900051202",
+   "stationB": "de:11000:900051302",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 8426,
+   "demand": 0.109538
+  },
+  {
+   "stationA": "de:11000:900051302",
+   "stationB": "de:11000:900051303",
+   "lines": [
+    "U3"
+   ],
+   "n_lines": 1,
+   "pop_mean": 4134,
+   "demand": 0.052081
+  },
+  {
+   "stationA": "de:11000:900054101",
+   "stationB": "de:11000:900054105",
+   "lines": [
+    "U4"
+   ],
+   "n_lines": 1,
+   "pop_mean": 12491,
+   "demand": 0.163975
+  },
+  {
+   "stationA": "de:11000:900054101",
+   "stationB": "de:11000:900055102",
+   "lines": [
+    "U4"
+   ],
+   "n_lines": 1,
+   "pop_mean": 8789,
+   "demand": 0.114405
+  },
+  {
+   "stationA": "de:11000:900054102",
+   "stationB": "de:11000:900054103",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 18512,
+   "demand": 0.244597
+  },
+  {
+   "stationA": "de:11000:900054102",
+   "stationB": "de:11000:900058103",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 15118,
+   "demand": 0.199158
+  },
+  {
+   "stationA": "de:11000:900054103",
+   "stationB": "de:11000:900055102",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 12844,
+   "demand": 0.168702
+  },
+  {
+   "stationA": "de:11000:900055101",
+   "stationB": "de:11000:900055102",
+   "lines": [
+    "U4"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9434,
+   "demand": 0.123048
+  },
+  {
+   "stationA": "de:11000:900055101",
+   "stationB": "de:11000:900056102",
+   "lines": [
+    "U4"
+   ],
+   "n_lines": 1,
+   "pop_mean": 11284,
+   "demand": 0.147807
+  },
+  {
+   "stationA": "de:11000:900056101",
+   "stationB": "de:11000:900056102",
+   "lines": [
+    "U1",
+    "U2",
+    "U3"
+   ],
+   "n_lines": 3,
+   "pop_mean": 9582,
+   "demand": 0.625017
+  },
+  {
+   "stationA": "de:11000:900056102",
+   "stationB": "de:11000:900056104",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10436,
+   "demand": 0.136459
+  },
+  {
+   "stationA": "de:11000:900061101",
+   "stationB": "de:11000:900061102",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 18036,
+   "demand": 0.238217
+  },
+  {
+   "stationA": "de:11000:900061101",
+   "stationB": "de:11000:900062203",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 16476,
+   "demand": 0.217342
+  },
+  {
+   "stationA": "de:11000:900062202",
+   "stationB": "de:11000:900062203",
+   "lines": [
+    "U9"
+   ],
+   "n_lines": 1,
+   "pop_mean": 17176,
+   "demand": 0.226715
+  },
+  {
+   "stationA": "de:11000:900068101",
+   "stationB": "de:11000:900068201",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 4683,
+   "demand": 0.059425
+  },
+  {
+   "stationA": "de:11000:900068201",
+   "stationB": "de:11000:900068202",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 8300,
+   "demand": 0.107857
+  },
+  {
+   "stationA": "de:11000:900068202",
+   "stationB": "de:11000:900068302",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 13355,
+   "demand": 0.175544
+  },
+  {
+   "stationA": "de:11000:900068302",
+   "stationB": "de:11000:900069271",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 13166,
+   "demand": 0.173007
+  },
+  {
+   "stationA": "de:11000:900069271",
+   "stationB": "de:11000:900070101",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 15006,
+   "demand": 0.197658
+  },
+  {
+   "stationA": "de:11000:900070101",
+   "stationB": "de:11000:900070301",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 16333,
+   "demand": 0.21542
+  },
+  {
+   "stationA": "de:11000:900078101",
+   "stationB": "de:11000:900078102",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 23804,
+   "demand": 0.315464
+  },
+  {
+   "stationA": "de:11000:900078101",
+   "stationB": "de:11000:900079202",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 18709,
+   "demand": 0.247235
+  },
+  {
+   "stationA": "de:11000:900078102",
+   "stationB": "de:11000:900078103",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 23676,
+   "demand": 0.313737
+  },
+  {
+   "stationA": "de:11000:900078103",
+   "stationB": "de:11000:900078201",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 18394,
+   "demand": 0.243017
+  },
+  {
+   "stationA": "de:11000:900078201",
+   "stationB": "de:11000:900080202",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 13475,
+   "demand": 0.177151
+  },
+  {
+   "stationA": "de:11000:900079201",
+   "stationB": "de:11000:900079202",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 16226,
+   "demand": 0.213994
+  },
+  {
+   "stationA": "de:11000:900079201",
+   "stationB": "de:11000:900079221",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 19415,
+   "demand": 0.256688
+  },
+  {
+   "stationA": "de:11000:900080201",
+   "stationB": "de:11000:900080202",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10228,
+   "demand": 0.13368
+  },
+  {
+   "stationA": "de:11000:900080201",
+   "stationB": "de:11000:900080401",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10010,
+   "demand": 0.130761
+  },
+  {
+   "stationA": "de:11000:900080401",
+   "stationB": "de:11000:900080402",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9090,
+   "demand": 0.118442
+  },
+  {
+   "stationA": "de:11000:900080402",
+   "stationB": "de:11000:900082202",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10912,
+   "demand": 0.142832
+  },
+  {
+   "stationA": "de:11000:900082201",
+   "stationB": "de:11000:900082202",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 14317,
+   "demand": 0.188426
+  },
+  {
+   "stationA": "de:11000:900082201",
+   "stationB": "de:11000:900083102",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 15142,
+   "demand": 0.199472
+  },
+  {
+   "stationA": "de:11000:900083101",
+   "stationB": "de:11000:900083102",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 11326,
+   "demand": 0.148369
+  },
+  {
+   "stationA": "de:11000:900083101",
+   "stationB": "de:11000:900083201",
+   "lines": [
+    "U7"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9616,
+   "demand": 0.125485
+  },
+  {
+   "stationA": "de:11000:900085104",
+   "stationB": "de:11000:900085203",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 13219,
+   "demand": 0.173723
+  },
+  {
+   "stationA": "de:11000:900085104",
+   "stationB": "de:11000:900086160",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6601,
+   "demand": 0.085108
+  },
+  {
+   "stationA": "de:11000:900085202",
+   "stationB": "de:11000:900085203",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 19206,
+   "demand": 0.25389
+  },
+  {
+   "stationA": "de:11000:900086160",
+   "stationB": "de:11000:900096458",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6918,
+   "demand": 0.089359
+  },
+  {
+   "stationA": "de:11000:900096101",
+   "stationB": "de:11000:900096410",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 11654,
+   "demand": 0.152761
+  },
+  {
+   "stationA": "de:11000:900096410",
+   "stationB": "de:11000:900096458",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 8972,
+   "demand": 0.116855
+  },
+  {
+   "stationA": "de:11000:900100001",
+   "stationB": "de:11000:900100019",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 4668,
+   "demand": 0.059218
+  },
+  {
+   "stationA": "de:11000:900100001",
+   "stationB": "de:11000:900100513",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 1246,
+   "demand": 0.013397
+  },
+  {
+   "stationA": "de:11000:900100003",
+   "stationB": "de:11000:900100004",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 4455,
+   "demand": 0.056372
+  },
+  {
+   "stationA": "de:11000:900100003",
+   "stationB": "de:11000:900100015",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 2520,
+   "demand": 0.030469
+  },
+  {
+   "stationA": "de:11000:900100003",
+   "stationB": "de:11000:900100016",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6414,
+   "demand": 0.082604
+  },
+  {
+   "stationA": "de:11000:900100003",
+   "stationB": "de:11000:900100017",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7960,
+   "demand": 0.103311
+  },
+  {
+   "stationA": "de:11000:900100003",
+   "stationB": "de:11000:900100045",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 2844,
+   "demand": 0.034808
+  },
+  {
+   "stationA": "de:11000:900100003",
+   "stationB": "de:11000:900100051",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 5898,
+   "demand": 0.075688
+  },
+  {
+   "stationA": "de:11000:900100004",
+   "stationB": "de:11000:900100008",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7746,
+   "demand": 0.100433
+  },
+  {
+   "stationA": "de:11000:900100009",
+   "stationB": "de:11000:900100019",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7163,
+   "demand": 0.092633
+  },
+  {
+   "stationA": "de:11000:900100009",
+   "stationB": "de:11000:900100501",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 8998,
+   "demand": 0.117197
+  },
+  {
+   "stationA": "de:11000:900100010",
+   "stationB": "de:11000:900100011",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 1756,
+   "demand": 0.020239
+  },
+  {
+   "stationA": "de:11000:900100010",
+   "stationB": "de:11000:900100020",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 1922,
+   "demand": 0.022462
+  },
+  {
+   "stationA": "de:11000:900100011",
+   "stationB": "de:11000:900100012",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 1963,
+   "demand": 0.023004
+  },
+  {
+   "stationA": "de:11000:900100011",
+   "stationB": "de:11000:900100513",
+   "lines": [
+    "U6"
+   ],
+   "n_lines": 1,
+   "pop_mean": 1012,
+   "demand": 0.01027
+  },
+  {
+   "stationA": "de:11000:900100012",
+   "stationB": "de:11000:900100013",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 3702,
+   "demand": 0.046296
+  },
+  {
+   "stationA": "de:11000:900100013",
+   "stationB": "de:11000:900100014",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 5414,
+   "demand": 0.06922
+  },
+  {
+   "stationA": "de:11000:900100014",
+   "stationB": "de:11000:900100015",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 3274,
+   "demand": 0.040552
+  },
+  {
+   "stationA": "de:11000:900100016",
+   "stationB": "de:11000:900110005",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 15566,
+   "demand": 0.205157
+  },
+  {
+   "stationA": "de:11000:900100017",
+   "stationB": "de:11000:900120006",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 14504,
+   "demand": 0.190936
+  },
+  {
+   "stationA": "de:11000:900100023",
+   "stationB": "de:11000:900100051",
+   "lines": [
+    "U8"
+   ],
+   "n_lines": 1,
+   "pop_mean": 9200,
+   "demand": 0.119908
+  },
+  {
+   "stationA": "de:11000:900100025",
+   "stationB": "de:11000:900100513",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 472,
+   "demand": 0.003033
+  },
+  {
+   "stationA": "de:11000:900100045",
+   "stationB": "de:11000:900100537",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 748,
+   "demand": 0.006729
+  },
+  {
+   "stationA": "de:11000:900100513",
+   "stationB": "de:11000:900100537",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 511,
+   "demand": 0.003562
+  },
+  {
+   "stationA": "de:11000:900110001",
+   "stationB": "de:11000:900110006",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 37586,
+   "demand": 0.5
+  },
+  {
+   "stationA": "de:11000:900110001",
+   "stationB": "de:11000:900130011",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 37075,
+   "demand": 0.493158
+  },
+  {
+   "stationA": "de:11000:900110005",
+   "stationB": "de:11000:900110006",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 24649,
+   "demand": 0.326772
+  },
+  {
+   "stationA": "de:11000:900120001",
+   "stationB": "de:11000:900120009",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 27616,
+   "demand": 0.366494
+  },
+  {
+   "stationA": "de:11000:900120001",
+   "stationB": "de:11000:900160005",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 17364,
+   "demand": 0.229225
+  },
+  {
+   "stationA": "de:11000:900120006",
+   "stationB": "de:11000:900120025",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 19074,
+   "demand": 0.252129
+  },
+  {
+   "stationA": "de:11000:900120008",
+   "stationB": "de:11000:900120009",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 30745,
+   "demand": 0.408398
+  },
+  {
+   "stationA": "de:11000:900120008",
+   "stationB": "de:11000:900120025",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 22978,
+   "demand": 0.304404
+  },
+  {
+   "stationA": "de:11000:900130002",
+   "stationB": "de:11000:900130011",
+   "lines": [
+    "U2"
+   ],
+   "n_lines": 1,
+   "pop_mean": 27170,
+   "demand": 0.360522
+  },
+  {
+   "stationA": "de:11000:900160004",
+   "stationB": "de:11000:900160005",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 20306,
+   "demand": 0.268626
+  },
+  {
+   "stationA": "de:11000:900160004",
+   "stationB": "de:11000:900161512",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 24746,
+   "demand": 0.328071
+  },
+  {
+   "stationA": "de:11000:900161002",
+   "stationB": "de:11000:900161512",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 20931,
+   "demand": 0.276988
+  },
+  {
+   "stationA": "de:11000:900161002",
+   "stationB": "de:11000:900171005",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10943,
+   "demand": 0.143247
+  },
+  {
+   "stationA": "de:11000:900171005",
+   "stationB": "de:11000:900171006",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6005,
+   "demand": 0.077127
+  },
+  {
+   "stationA": "de:11000:900171006",
+   "stationB": "de:11000:900175001",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 6060,
+   "demand": 0.077863
+  },
+  {
+   "stationA": "de:11000:900175001",
+   "stationB": "de:11000:900175004",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 11572,
+   "demand": 0.151663
+  },
+  {
+   "stationA": "de:11000:900175004",
+   "stationB": "de:11000:900175005",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 12670,
+   "demand": 0.166379
+  },
+  {
+   "stationA": "de:11000:900175005",
+   "stationB": "de:11000:900175006",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 10786,
+   "demand": 0.141138
+  },
+  {
+   "stationA": "de:11000:900175006",
+   "stationB": "de:11000:900175007",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 21013,
+   "demand": 0.278086
+  },
+  {
+   "stationA": "de:11000:900175007",
+   "stationB": "de:11000:900175015",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 20592,
+   "demand": 0.272449
+  },
+  {
+   "stationA": "de:11000:900175010",
+   "stationB": "de:11000:900175015",
+   "lines": [
+    "U5"
+   ],
+   "n_lines": 1,
+   "pop_mean": 7034,
+   "demand": 0.090912
+  }
+ ]
+}

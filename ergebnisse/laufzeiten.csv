@@ -1,0 +1,7 @@
+﻿bereich;kennzahl;millisekunden
+einzelschritt;kanten_betweenness;21,5
+einzelschritt;metrics;4,7
+szenario;random;15105,9
+szenario;betweenness_dyn;473,2
+szenario;betweenness_stat;159,8
+szenario;demand;220,4

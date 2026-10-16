@@ -1,0 +1,733 @@
+﻿szenario;schritt;position;station_a;station_b;name_a;name_b
+random;1;2;de:11000:900002201;de:11000:900003104;Birkenstr.;Turmstr.
+random;2;14;de:11000:900007110;de:11000:900100023;Bernauer Str.;Rosenthaler Platz
+random;3;121;de:11000:900078201;de:11000:900080202;Neukölln;Grenzallee
+random;4;144;de:11000:900100003;de:11000:900100045;Alexanderplatz Bhf;Rotes Rathaus
+random;5;116;de:11000:900070101;de:11000:900070301;Westphalweg;Alt-Mariendorf
+random;6;157;de:11000:900100017;de:11000:900120006;Schillingstr.;Strausberger Platz
+random;7;36;de:11000:900013102;de:11000:900016201;Kottbusser Tor;Schönleinstr.
+random;8;111;de:11000:900068101;de:11000:900068201;Paradestr.;Tempelhof
+random;9;113;de:11000:900068202;de:11000:900068302;Alt-Tempelhof;Kaiserin-Augusta-Str.
+random;10;13;de:11000:900007103;de:11000:900007110;Voltastr.;Bernauer Str.
+random;11;153;de:11000:900100012;de:11000:900100013;Hausvogteiplatz;Spittelmarkt
+random;12;15;de:11000:900008102;de:11000:900009104;Reinickendorfer Str.;Wedding
+random;13;37;de:11000:900014101;de:11000:900014102;Görlitzer Bahnhof;Schlesisches Tor
+random;14;148;de:11000:900100009;de:11000:900100501;Naturkundemuseum;Schwartzkopffstr.
+random;15;112;de:11000:900068201;de:11000:900068202;Tempelhof;Alt-Tempelhof
+random;16;32;de:11000:900013101;de:11000:900013102;Moritzplatz;Kottbusser Tor
+random;17;172;de:11000:900160004;de:11000:900161512;Lichtenberg Bhf;Friedrichsfelde
+random;18;65;de:11000:900023203;de:11000:900042101;Kurfürstendamm;Spichernstr.
+random;19;164;de:11000:900110005;de:11000:900110006;Senefelderplatz;Eberswalder Str.
+random;20;179;de:11000:900175005;de:11000:900175006;Kienberg (Gärten der Welt);Cottbusser Platz
+random;21;162;de:11000:900110001;de:11000:900110006;Schönhauser Allee;Eberswalder Str.
+random;22;19;de:11000:900009102;de:11000:900009104;Leopoldplatz;Wedding
+random;23;53;de:11000:900019204;de:11000:900022202;Mierendorffplatz;Richard-Wagner-Platz
+random;24;25;de:11000:900011101;de:11000:900011102;Rehberge;Afrikanische Str.
+random;25;177;de:11000:900175001;de:11000:900175004;Wuhletal;Kaulsdorf-Nord
+random;26;98;de:11000:900051302;de:11000:900051303;Podbielskiallee;Dahlem-Dorf
+random;27;60;de:11000:900023201;de:11000:900023203;Zoologischer Garten Bhf;Kurfürstendamm
+random;28;30;de:11000:900012103;de:11000:900017101;Hallesches Tor;Mehringdamm
+random;29;178;de:11000:900175004;de:11000:900175005;Kaulsdorf-Nord;Kienberg (Gärten der Welt)
+random;30;61;de:11000:900023201;de:11000:900056101;Zoologischer Garten Bhf;Wittenbergplatz
+random;31;132;de:11000:900085104;de:11000:900085203;Paracelsus-Bad;Residenzstr.
+random;32;44;de:11000:900017101;de:11000:900017104;Mehringdamm;Möckernbrücke
+random;33;42;de:11000:900016202;de:11000:900078101;Südstern;Hermannplatz
+random;34;66;de:11000:900023203;de:11000:900056101;Kurfürstendamm;Wittenbergplatz
+random;35;161;de:11000:900100513;de:11000:900100537;Unter den Linden;Museumsinsel
+random;36;52;de:11000:900019204;de:11000:900020201;Mierendorffplatz;Jungfernheide Bhf
+random;37;127;de:11000:900080402;de:11000:900082202;Britz-Süd;Johannisthaler Chaussee
+random;38;171;de:11000:900160004;de:11000:900160005;Lichtenberg Bhf;Magdalenenstr.
+random;39;102;de:11000:900054102;de:11000:900058103;Kleistpark;Yorckstr.
+random;40;64;de:11000:900023203;de:11000:900023301;Kurfürstendamm;Uhlandstr.
+random;41;83;de:11000:900041101;de:11000:900045102;Fehrbelliner Platz;Heidelberger Platz
+random;42;133;de:11000:900085104;de:11000:900086160;Paracelsus-Bad;Lindauer Allee
+random;43;0;de:11000:900001201;de:11000:900002201;Westhafen;Birkenstr.
+random;44;119;de:11000:900078102;de:11000:900078103;Rathaus Neukölln;Karl-Marx-Str.
+random;45;16;de:11000:900008102;de:11000:900100501;Reinickendorfer Str.;Schwartzkopffstr.
+random;46;69;de:11000:900024201;de:11000:900024202;Bismarckstr.;Wilmersdorfer Str.
+random;47;90;de:11000:900044202;de:11000:900061102;Bundesplatz;Friedrich-Wilhelm-Platz
+random;48;159;de:11000:900100025;de:11000:900100513;Brandenburger Tor;Unter den Linden
+random;49;131;de:11000:900083101;de:11000:900083201;Zwickauer Damm;Rudow
+random;50;142;de:11000:900100003;de:11000:900100016;Alexanderplatz Bhf;Rosa-Luxemburg-Platz
+random;51;146;de:11000:900100004;de:11000:900100008;Jannowitzbrücke;Heinrich-Heine-Str.
+random;52;38;de:11000:900014102;de:11000:900120004;Schlesisches Tor;Warschauer Str.
+random;53;78;de:11000:900034101;de:11000:900036101;Paulsternstr.;Rohrdamm
+random;54;43;de:11000:900017101;de:11000:900017102;Mehringdamm;Platz der Luftbrücke
+random;55;76;de:11000:900033101;de:11000:900034102;Zitadelle;Haselhorst
+random;56;125;de:11000:900080201;de:11000:900080401;Blaschkoallee;Parchimer Allee
+random;57;79;de:11000:900035101;de:11000:900036101;Siemensdamm;Rohrdamm
+random;58;105;de:11000:900055101;de:11000:900056102;Viktoria-Luise-Platz;Nollendorfplatz
+random;59;100;de:11000:900054101;de:11000:900055102;Rathaus Schöneberg;Bayerischer Platz
+random;60;147;de:11000:900100009;de:11000:900100019;Naturkundemuseum;Oranienburger Tor
+random;61;3;de:11000:900003101;de:11000:900003104;Hansaplatz;Turmstr.
+random;62;135;de:11000:900086160;de:11000:900096458;Lindauer Allee;Karl-Bonhoeffer-Nervenklinik
+random;63;5;de:11000:900003201;de:11000:900003254;Berlin Hauptbahnhof;Bundestag
+random;64;104;de:11000:900055101;de:11000:900055102;Viktoria-Luise-Platz;Bayerischer Platz
+random;65;80;de:11000:900041101;de:11000:900041102;Fehrbelliner Platz;Blissestr.
+random;66;141;de:11000:900100003;de:11000:900100015;Alexanderplatz Bhf;Klosterstr.
+random;67;115;de:11000:900069271;de:11000:900070101;Ullsteinstr.;Westphalweg
+random;68;84;de:11000:900041102;de:11000:900044201;Blissestr.;Berliner Str.
+random;69;54;de:11000:900022101;de:11000:900024201;Sophie-Charlotte-Platz;Bismarckstr.
+random;70;73;de:11000:900026201;de:11000:900026202;Theodor-Heuss-Platz;Kaiserdamm
+random;71;101;de:11000:900054102;de:11000:900054103;Kleistpark;Eisenacher Str.
+random;72;99;de:11000:900054101;de:11000:900054105;Rathaus Schöneberg;Innsbrucker Platz
+random;73;130;de:11000:900083101;de:11000:900083102;Zwickauer Damm;Wutzkyallee
+random;74;33;de:11000:900013101;de:11000:900100008;Moritzplatz;Heinrich-Heine-Str.
+random;75;18;de:11000:900009102;de:11000:900009103;Leopoldplatz;Seestr.
+random;76;118;de:11000:900078101;de:11000:900079202;Hermannplatz;Boddinstr.
+random;77;160;de:11000:900100045;de:11000:900100537;Rotes Rathaus;Museumsinsel
+random;78;63;de:11000:900023202;de:11000:900056101;Augsburger Str.;Wittenbergplatz
+random;79;94;de:11000:900050282;de:11000:900051301;Onkel Toms Hütte;Oskar-Helene-Heim
+random;80;122;de:11000:900079201;de:11000:900079202;Leinestr.;Boddinstr.
+random;81;72;de:11000:900026101;de:11000:900026201;Neu-Westend;Theodor-Heuss-Platz
+random;82;27;de:11000:900012102;de:11000:900012103;Kochstr. (Checkpoint Charlie);Hallesches Tor
+random;83;169;de:11000:900120008;de:11000:900120025;Frankfurter Tor;Weberwiese
+random;84;95;de:11000:900051201;de:11000:900051301;Freie Universität (Thielplatz);Oskar-Helene-Heim
+random;85;51;de:11000:900018102;de:11000:900035101;Halemweg;Siemensdamm
+random;86;152;de:11000:900100011;de:11000:900100513;Stadtmitte;Unter den Linden
+random;87;4;de:11000:900003101;de:11000:900023201;Hansaplatz;Zoologischer Garten Bhf
+random;88;123;de:11000:900079201;de:11000:900079221;Leinestr.;Hermannstr.
+random;89;168;de:11000:900120008;de:11000:900120009;Frankfurter Tor;Samariterstr.
+random;90;41;de:11000:900016201;de:11000:900078101;Schönleinstr.;Hermannplatz
+random;91;158;de:11000:900100023;de:11000:900100051;Rosenthaler Platz;Weinmeisterstr.
+random;92;181;de:11000:900175007;de:11000:900175015;Hellersdorf;Louis-Lewin-Str.
+random;93;149;de:11000:900100010;de:11000:900100011;Anton-Wilhelm-Amo-Str.;Stadtmitte
+random;94;140;de:11000:900100003;de:11000:900100004;Alexanderplatz Bhf;Jannowitzbrücke
+random;95;103;de:11000:900054103;de:11000:900055102;Eisenacher Str.;Bayerischer Platz
+random;96;124;de:11000:900080201;de:11000:900080202;Blaschkoallee;Grenzallee
+random;97;120;de:11000:900078103;de:11000:900078201;Karl-Marx-Str.;Neukölln
+random;98;165;de:11000:900120001;de:11000:900120009;Frankfurter Allee;Samariterstr.
+random;99;156;de:11000:900100016;de:11000:900110005;Rosa-Luxemburg-Platz;Senefelderplatz
+random;100;136;de:11000:900096101;de:11000:900096410;Wittenau;Rathaus Reinickendorf
+random;101;93;de:11000:900050201;de:11000:900050282;Krumme Lanke;Onkel Toms Hütte
+random;102;68;de:11000:900023302;de:11000:900041201;Adenauerplatz;Konstanzer Str.
+random;103;21;de:11000:900009103;de:11000:900011101;Seestr.;Rehberge
+random;104;137;de:11000:900096410;de:11000:900096458;Rathaus Reinickendorf;Karl-Bonhoeffer-Nervenklinik
+random;105;77;de:11000:900034101;de:11000:900034102;Paulsternstr.;Haselhorst
+random;106;9;de:11000:900005252;de:11000:900017103;Mendelssohn-Bartholdy-Park;Gleisdreieck
+random;107;82;de:11000:900041101;de:11000:900043101;Fehrbelliner Platz;Hohenzollernplatz
+random;108;155;de:11000:900100014;de:11000:900100015;Märkisches Museum;Klosterstr.
+random;109;89;de:11000:900044201;de:11000:900055102;Berliner Str.;Bayerischer Platz
+random;110;34;de:11000:900013102;de:11000:900013103;Kottbusser Tor;Prinzenstr.
+random;111;85;de:11000:900042101;de:11000:900043101;Spichernstr.;Hohenzollernplatz
+random;112;145;de:11000:900100003;de:11000:900100051;Alexanderplatz Bhf;Weinmeisterstr.
+random;113;45;de:11000:900017102;de:11000:900068101;Platz der Luftbrücke;Paradestr.
+random;114;47;de:11000:900017103;de:11000:900056104;Gleisdreieck;Bülowstr.
+random;115;134;de:11000:900085202;de:11000:900085203;Franz-Neumann-Platz;Residenzstr.
+random;116;46;de:11000:900017103;de:11000:900017104;Gleisdreieck;Möckernbrücke
+random;117;106;de:11000:900056101;de:11000:900056102;Wittenbergplatz;Nollendorfplatz
+random;118;81;de:11000:900041101;de:11000:900041201;Fehrbelliner Platz;Konstanzer Str.
+random;119;128;de:11000:900082201;de:11000:900082202;Lipschitzallee;Johannisthaler Chaussee
+random;120;176;de:11000:900171006;de:11000:900175001;Elsterwerdaer Platz;Wuhletal
+random;121;48;de:11000:900017104;de:11000:900058103;Möckernbrücke;Yorckstr.
+random;122;12;de:11000:900007102;de:11000:900009203;Gesundbrunnen Bhf;Pankstr.
+random;123;110;de:11000:900062202;de:11000:900062203;Rathaus Steglitz;Schloßstr.
+random;124;29;de:11000:900012103;de:11000:900013103;Hallesches Tor;Prinzenstr.
+random;125;109;de:11000:900061101;de:11000:900062203;Walther-Schreiber-Platz;Schloßstr.
+random;126;10;de:11000:900005252;de:11000:900100020;Mendelssohn-Bartholdy-Park;Potsdamer Platz Bhf
+random;127;126;de:11000:900080401;de:11000:900080402;Parchimer Allee;Britz-Süd
+random;128;74;de:11000:900029301;de:11000:900029302;Altstadt Spandau;Rathaus Spandau
+random;129;58;de:11000:900022202;de:11000:900024201;Richard-Wagner-Platz;Bismarckstr.
+random;130;138;de:11000:900100001;de:11000:900100019;Friedrichstr. Bhf;Oranienburger Tor
+random;131;17;de:11000:900009101;de:11000:900009102;Amrumer Str.;Leopoldplatz
+random;132;49;de:11000:900018101;de:11000:900018102;Jakob-Kaiser-Platz;Halemweg
+random;133;92;de:11000:900045101;de:11000:900051202;Rüdesheimer Platz;Breitenbachplatz
+random;134;75;de:11000:900029301;de:11000:900033101;Altstadt Spandau;Zitadelle
+random;135;20;de:11000:900009102;de:11000:900009201;Leopoldplatz;Nauener Platz
+random;136;96;de:11000:900051201;de:11000:900051303;Freie Universität (Thielplatz);Dahlem-Dorf
+random;137;31;de:11000:900012103;de:11000:900017104;Hallesches Tor;Möckernbrücke
+random;138;117;de:11000:900078101;de:11000:900078102;Hermannplatz;Rathaus Neukölln
+random;139;11;de:11000:900007102;de:11000:900007103;Gesundbrunnen Bhf;Voltastr.
+random;140;67;de:11000:900023302;de:11000:900024202;Adenauerplatz;Wilmersdorfer Str.
+random;141;88;de:11000:900044201;de:11000:900044202;Berliner Str.;Bundesplatz
+random;142;91;de:11000:900045101;de:11000:900045102;Rüdesheimer Platz;Heidelberger Platz
+random;143;24;de:11000:900009202;de:11000:900085202;Osloer Str.;Franz-Neumann-Platz
+random;144;97;de:11000:900051202;de:11000:900051302;Breitenbachplatz;Podbielskiallee
+random;145;167;de:11000:900120006;de:11000:900120025;Strausberger Platz;Weberwiese
+random;146;175;de:11000:900171005;de:11000:900171006;Biesdorf-Süd;Elsterwerdaer Platz
+random;147;86;de:11000:900042101;de:11000:900043201;Spichernstr.;Güntzelstr.
+random;148;166;de:11000:900120001;de:11000:900160005;Frankfurter Allee;Magdalenenstr.
+random;149;39;de:11000:900016101;de:11000:900016202;Gneisenaustr.;Südstern
+random;150;182;de:11000:900175010;de:11000:900175015;Hönow;Louis-Lewin-Str.
+random;151;87;de:11000:900043201;de:11000:900044201;Güntzelstr.;Berliner Str.
+random;152;170;de:11000:900130002;de:11000:900130011;Pankow;Vinetastr.
+random;153;40;de:11000:900016101;de:11000:900017101;Gneisenaustr.;Mehringdamm
+random;154;1;de:11000:900001201;de:11000:900009101;Westhafen;Amrumer Str.
+random;155;71;de:11000:900025203;de:11000:900026101;Olympia-Stadion;Neu-Westend
+random;156;150;de:11000:900100010;de:11000:900100020;Anton-Wilhelm-Amo-Str.;Potsdamer Platz Bhf
+random;157;114;de:11000:900068302;de:11000:900069271;Kaiserin-Augusta-Str.;Ullsteinstr.
+random;158;56;de:11000:900022201;de:11000:900023101;Deutsche Oper;Ernst-Reuter-Platz
+random;159;107;de:11000:900056102;de:11000:900056104;Nollendorfplatz;Bülowstr.
+random;160;174;de:11000:900161002;de:11000:900171005;Tierpark;Biesdorf-Süd
+random;161;50;de:11000:900018101;de:11000:900020201;Jakob-Kaiser-Platz;Jungfernheide Bhf
+random;162;143;de:11000:900100003;de:11000:900100017;Alexanderplatz Bhf;Schillingstr.
+random;163;180;de:11000:900175006;de:11000:900175007;Cottbusser Platz;Hellersdorf
+random;164;154;de:11000:900100013;de:11000:900100014;Spittelmarkt;Märkisches Museum
+random;165;129;de:11000:900082201;de:11000:900083102;Lipschitzallee;Wutzkyallee
+random;166;59;de:11000:900023101;de:11000:900023201;Ernst-Reuter-Platz;Zoologischer Garten Bhf
+random;167;55;de:11000:900022101;de:11000:900026202;Sophie-Charlotte-Platz;Kaiserdamm
+random;168;23;de:11000:900009202;de:11000:900009203;Osloer Str.;Pankstr.
+random;169;7;de:11000:900005201;de:11000:900017103;Kurfürstenstr.;Gleisdreieck
+random;170;8;de:11000:900005201;de:11000:900056102;Kurfürstenstr.;Nollendorfplatz
+random;171;108;de:11000:900061101;de:11000:900061102;Walther-Schreiber-Platz;Friedrich-Wilhelm-Platz
+random;172;151;de:11000:900100011;de:11000:900100012;Stadtmitte;Hausvogteiplatz
+random;173;22;de:11000:900009201;de:11000:900009202;Nauener Platz;Osloer Str.
+random;174;139;de:11000:900100001;de:11000:900100513;Friedrichstr. Bhf;Unter den Linden
+random;175;173;de:11000:900161002;de:11000:900161512;Tierpark;Friedrichsfelde
+random;176;26;de:11000:900011102;de:11000:900086102;Afrikanische Str.;Kurt-Schumacher-Platz
+random;177;35;de:11000:900013102;de:11000:900014101;Kottbusser Tor;Görlitzer Bahnhof
+random;178;57;de:11000:900022201;de:11000:900024201;Deutsche Oper;Bismarckstr.
+random;179;62;de:11000:900023202;de:11000:900042101;Augsburger Str.;Spichernstr.
+random;180;70;de:11000:900025202;de:11000:900025203;Ruhleben;Olympia-Stadion
+random;181;6;de:11000:900003254;de:11000:900100025;Bundestag;Brandenburger Tor
+random;182;28;de:11000:900012102;de:11000:900100011;Kochstr. (Checkpoint Charlie);Stadtmitte
+random;183;163;de:11000:900110001;de:11000:900130011;Schönhauser Allee;Vinetastr.
+betweenness_dyn;1;106;de:11000:900056101;de:11000:900056102;Wittenbergplatz;Nollendorfplatz
+betweenness_dyn;2;89;de:11000:900044201;de:11000:900055102;Berliner Str.;Bayerischer Platz
+betweenness_dyn;3;17;de:11000:900009101;de:11000:900009102;Amrumer Str.;Leopoldplatz
+betweenness_dyn;4;143;de:11000:900100003;de:11000:900100017;Alexanderplatz Bhf;Schillingstr.
+betweenness_dyn;5;152;de:11000:900100011;de:11000:900100513;Stadtmitte;Unter den Linden
+betweenness_dyn;6;32;de:11000:900013101;de:11000:900013102;Moritzplatz;Kottbusser Tor
+betweenness_dyn;7;151;de:11000:900100011;de:11000:900100012;Stadtmitte;Hausvogteiplatz
+betweenness_dyn;8;58;de:11000:900022202;de:11000:900024201;Richard-Wagner-Platz;Bismarckstr.
+betweenness_dyn;9;117;de:11000:900078101;de:11000:900078102;Hermannplatz;Rathaus Neukölln
+betweenness_dyn;10;145;de:11000:900100003;de:11000:900100051;Alexanderplatz Bhf;Weinmeisterstr.
+betweenness_dyn;11;148;de:11000:900100009;de:11000:900100501;Naturkundemuseum;Schwartzkopffstr.
+betweenness_dyn;12;83;de:11000:900041101;de:11000:900045102;Fehrbelliner Platz;Heidelberger Platz
+betweenness_dyn;13;43;de:11000:900017101;de:11000:900017102;Mehringdamm;Platz der Luftbrücke
+betweenness_dyn;14;54;de:11000:900022101;de:11000:900024201;Sophie-Charlotte-Platz;Bismarckstr.
+betweenness_dyn;15;65;de:11000:900023203;de:11000:900042101;Kurfürstendamm;Spichernstr.
+betweenness_dyn;16;62;de:11000:900023202;de:11000:900042101;Augsburger Str.;Spichernstr.
+betweenness_dyn;17;67;de:11000:900023302;de:11000:900024202;Adenauerplatz;Wilmersdorfer Str.
+betweenness_dyn;18;22;de:11000:900009201;de:11000:900009202;Nauener Platz;Osloer Str.
+betweenness_dyn;19;144;de:11000:900100003;de:11000:900100045;Alexanderplatz Bhf;Rotes Rathaus
+betweenness_dyn;20;46;de:11000:900017103;de:11000:900017104;Gleisdreieck;Möckernbrücke
+betweenness_dyn;21;48;de:11000:900017104;de:11000:900058103;Möckernbrücke;Yorckstr.
+betweenness_dyn;22;27;de:11000:900012102;de:11000:900012103;Kochstr. (Checkpoint Charlie);Hallesches Tor
+betweenness_dyn;23;173;de:11000:900161002;de:11000:900161512;Tierpark;Friedrichsfelde
+betweenness_dyn;24;105;de:11000:900055101;de:11000:900056102;Viktoria-Luise-Platz;Nollendorfplatz
+betweenness_dyn;25;24;de:11000:900009202;de:11000:900085202;Osloer Str.;Franz-Neumann-Platz
+betweenness_dyn;26;142;de:11000:900100003;de:11000:900100016;Alexanderplatz Bhf;Rosa-Luxemburg-Platz
+betweenness_dyn;27;4;de:11000:900003101;de:11000:900023201;Hansaplatz;Zoologischer Garten Bhf
+betweenness_dyn;28;88;de:11000:900044201;de:11000:900044202;Berliner Str.;Bundesplatz
+betweenness_dyn;29;35;de:11000:900013102;de:11000:900014101;Kottbusser Tor;Görlitzer Bahnhof
+betweenness_dyn;30;79;de:11000:900035101;de:11000:900036101;Siemensdamm;Rohrdamm
+betweenness_dyn;31;126;de:11000:900080401;de:11000:900080402;Parchimer Allee;Britz-Süd
+betweenness_dyn;32;118;de:11000:900078101;de:11000:900079202;Hermannplatz;Boddinstr.
+betweenness_dyn;33;178;de:11000:900175004;de:11000:900175005;Kaulsdorf-Nord;Kienberg (Gärten der Welt)
+betweenness_dyn;34;9;de:11000:900005252;de:11000:900017103;Mendelssohn-Bartholdy-Park;Gleisdreieck
+betweenness_dyn;35;18;de:11000:900009102;de:11000:900009103;Leopoldplatz;Seestr.
+betweenness_dyn;36;59;de:11000:900023101;de:11000:900023201;Ernst-Reuter-Platz;Zoologischer Garten Bhf
+betweenness_dyn;37;96;de:11000:900051201;de:11000:900051303;Freie Universität (Thielplatz);Dahlem-Dorf
+betweenness_dyn;38;165;de:11000:900120001;de:11000:900120009;Frankfurter Allee;Samariterstr.
+betweenness_dyn;39;139;de:11000:900100001;de:11000:900100513;Friedrichstr. Bhf;Unter den Linden
+betweenness_dyn;40;113;de:11000:900068202;de:11000:900068302;Alt-Tempelhof;Kaiserin-Augusta-Str.
+betweenness_dyn;41;141;de:11000:900100003;de:11000:900100015;Alexanderplatz Bhf;Klosterstr.
+betweenness_dyn;42;11;de:11000:900007102;de:11000:900007103;Gesundbrunnen Bhf;Voltastr.
+betweenness_dyn;43;81;de:11000:900041101;de:11000:900041201;Fehrbelliner Platz;Konstanzer Str.
+betweenness_dyn;44;103;de:11000:900054103;de:11000:900055102;Eisenacher Str.;Bayerischer Platz
+betweenness_dyn;45;133;de:11000:900085104;de:11000:900086160;Paracelsus-Bad;Lindauer Allee
+betweenness_dyn;46;29;de:11000:900012103;de:11000:900013103;Hallesches Tor;Prinzenstr.
+betweenness_dyn;47;39;de:11000:900016101;de:11000:900016202;Gneisenaustr.;Südstern
+betweenness_dyn;48;50;de:11000:900018101;de:11000:900020201;Jakob-Kaiser-Platz;Jungfernheide Bhf
+betweenness_dyn;49;72;de:11000:900026101;de:11000:900026201;Neu-Westend;Theodor-Heuss-Platz
+betweenness_dyn;50;76;de:11000:900033101;de:11000:900034102;Zitadelle;Haselhorst
+betweenness_dyn;51;121;de:11000:900078201;de:11000:900080202;Neukölln;Grenzallee
+betweenness_dyn;52;129;de:11000:900082201;de:11000:900083102;Lipschitzallee;Wutzkyallee
+betweenness_dyn;53;159;de:11000:900100025;de:11000:900100513;Brandenburger Tor;Unter den Linden
+betweenness_dyn;54;162;de:11000:900110001;de:11000:900110006;Schönhauser Allee;Eberswalder Str.
+betweenness_dyn;55;0;de:11000:900001201;de:11000:900002201;Westhafen;Birkenstr.
+betweenness_dyn;56;15;de:11000:900008102;de:11000:900009104;Reinickendorfer Str.;Wedding
+betweenness_dyn;57;36;de:11000:900013102;de:11000:900016201;Kottbusser Tor;Schönleinstr.
+betweenness_dyn;58;92;de:11000:900045101;de:11000:900051202;Rüdesheimer Platz;Breitenbachplatz
+betweenness_dyn;59;108;de:11000:900061101;de:11000:900061102;Walther-Schreiber-Platz;Friedrich-Wilhelm-Platz
+betweenness_dyn;60;149;de:11000:900100010;de:11000:900100011;Anton-Wilhelm-Amo-Str.;Stadtmitte
+betweenness_dyn;61;167;de:11000:900120006;de:11000:900120025;Strausberger Platz;Weberwiese
+betweenness_dyn;62;175;de:11000:900171005;de:11000:900171006;Biesdorf-Süd;Elsterwerdaer Platz
+betweenness_dyn;63;180;de:11000:900175006;de:11000:900175007;Cottbusser Platz;Hellersdorf
+betweenness_dyn;64;80;de:11000:900041101;de:11000:900041102;Fehrbelliner Platz;Blissestr.
+betweenness_dyn;65;86;de:11000:900042101;de:11000:900043201;Spichernstr.;Güntzelstr.
+betweenness_dyn;66;14;de:11000:900007110;de:11000:900100023;Bernauer Str.;Rosenthaler Platz
+betweenness_dyn;67;25;de:11000:900011101;de:11000:900011102;Rehberge;Afrikanische Str.
+betweenness_dyn;68;57;de:11000:900022201;de:11000:900024201;Deutsche Oper;Bismarckstr.
+betweenness_dyn;69;63;de:11000:900023202;de:11000:900056101;Augsburger Str.;Wittenbergplatz
+betweenness_dyn;70;94;de:11000:900050282;de:11000:900051301;Onkel Toms Hütte;Oskar-Helene-Heim
+betweenness_dyn;71;100;de:11000:900054101;de:11000:900055102;Rathaus Schöneberg;Bayerischer Platz
+betweenness_dyn;72;111;de:11000:900068101;de:11000:900068201;Paradestr.;Tempelhof
+betweenness_dyn;73;115;de:11000:900069271;de:11000:900070101;Ullsteinstr.;Westphalweg
+betweenness_dyn;74;137;de:11000:900096410;de:11000:900096458;Rathaus Reinickendorf;Karl-Bonhoeffer-Nervenklinik
+betweenness_dyn;75;146;de:11000:900100004;de:11000:900100008;Jannowitzbrücke;Heinrich-Heine-Str.
+betweenness_dyn;76;154;de:11000:900100013;de:11000:900100014;Spittelmarkt;Märkisches Museum
+betweenness_dyn;77;171;de:11000:900160004;de:11000:900160005;Lichtenberg Bhf;Magdalenenstr.
+betweenness_dyn;78;40;de:11000:900016101;de:11000:900017101;Gneisenaustr.;Mehringdamm
+betweenness_dyn;79;64;de:11000:900023203;de:11000:900023301;Kurfürstendamm;Uhlandstr.
+betweenness_dyn;80;2;de:11000:900002201;de:11000:900003104;Birkenstr.;Turmstr.
+betweenness_dyn;81;5;de:11000:900003201;de:11000:900003254;Berlin Hauptbahnhof;Bundestag
+betweenness_dyn;82;7;de:11000:900005201;de:11000:900017103;Kurfürstenstr.;Gleisdreieck
+betweenness_dyn;83;107;de:11000:900056102;de:11000:900056104;Nollendorfplatz;Bülowstr.
+betweenness_dyn;84;10;de:11000:900005252;de:11000:900100020;Mendelssohn-Bartholdy-Park;Potsdamer Platz Bhf
+betweenness_dyn;85;12;de:11000:900007102;de:11000:900009203;Gesundbrunnen Bhf;Pankstr.
+betweenness_dyn;86;19;de:11000:900009102;de:11000:900009104;Leopoldplatz;Wedding
+betweenness_dyn;87;37;de:11000:900014101;de:11000:900014102;Görlitzer Bahnhof;Schlesisches Tor
+betweenness_dyn;88;41;de:11000:900016201;de:11000:900078101;Schönleinstr.;Hermannplatz
+betweenness_dyn;89;49;de:11000:900018101;de:11000:900018102;Jakob-Kaiser-Platz;Halemweg
+betweenness_dyn;90;52;de:11000:900019204;de:11000:900020201;Mierendorffplatz;Jungfernheide Bhf
+betweenness_dyn;91;55;de:11000:900022101;de:11000:900026202;Sophie-Charlotte-Platz;Kaiserdamm
+betweenness_dyn;92;70;de:11000:900025202;de:11000:900025203;Ruhleben;Olympia-Stadion
+betweenness_dyn;93;74;de:11000:900029301;de:11000:900029302;Altstadt Spandau;Rathaus Spandau
+betweenness_dyn;94;77;de:11000:900034101;de:11000:900034102;Paulsternstr.;Haselhorst
+betweenness_dyn;95;82;de:11000:900041101;de:11000:900043101;Fehrbelliner Platz;Hohenzollernplatz
+betweenness_dyn;96;84;de:11000:900041102;de:11000:900044201;Blissestr.;Berliner Str.
+betweenness_dyn;97;97;de:11000:900051202;de:11000:900051302;Breitenbachplatz;Podbielskiallee
+betweenness_dyn;98;101;de:11000:900054102;de:11000:900054103;Kleistpark;Eisenacher Str.
+betweenness_dyn;99;109;de:11000:900061101;de:11000:900062203;Walther-Schreiber-Platz;Schloßstr.
+betweenness_dyn;100;119;de:11000:900078102;de:11000:900078103;Rathaus Neukölln;Karl-Marx-Str.
+betweenness_dyn;101;122;de:11000:900079201;de:11000:900079202;Leinestr.;Boddinstr.
+betweenness_dyn;102;124;de:11000:900080201;de:11000:900080202;Blaschkoallee;Grenzallee
+betweenness_dyn;103;127;de:11000:900080402;de:11000:900082202;Britz-Süd;Johannisthaler Chaussee
+betweenness_dyn;104;130;de:11000:900083101;de:11000:900083102;Zwickauer Damm;Wutzkyallee
+betweenness_dyn;105;132;de:11000:900085104;de:11000:900085203;Paracelsus-Bad;Residenzstr.
+betweenness_dyn;106;138;de:11000:900100001;de:11000:900100019;Friedrichstr. Bhf;Oranienburger Tor
+betweenness_dyn;107;156;de:11000:900100016;de:11000:900110005;Rosa-Luxemburg-Platz;Senefelderplatz
+betweenness_dyn;108;160;de:11000:900100045;de:11000:900100537;Rotes Rathaus;Museumsinsel
+betweenness_dyn;109;163;de:11000:900110001;de:11000:900130011;Schönhauser Allee;Vinetastr.
+betweenness_dyn;110;168;de:11000:900120008;de:11000:900120009;Frankfurter Tor;Samariterstr.
+betweenness_dyn;111;176;de:11000:900171006;de:11000:900175001;Elsterwerdaer Platz;Wuhletal
+betweenness_dyn;112;181;de:11000:900175007;de:11000:900175015;Hellersdorf;Louis-Lewin-Str.
+betweenness_dyn;113;1;de:11000:900001201;de:11000:900009101;Westhafen;Amrumer Str.
+betweenness_dyn;114;3;de:11000:900003101;de:11000:900003104;Hansaplatz;Turmstr.
+betweenness_dyn;115;6;de:11000:900003254;de:11000:900100025;Bundestag;Brandenburger Tor
+betweenness_dyn;116;8;de:11000:900005201;de:11000:900056102;Kurfürstenstr.;Nollendorfplatz
+betweenness_dyn;117;13;de:11000:900007103;de:11000:900007110;Voltastr.;Bernauer Str.
+betweenness_dyn;118;16;de:11000:900008102;de:11000:900100501;Reinickendorfer Str.;Schwartzkopffstr.
+betweenness_dyn;119;20;de:11000:900009102;de:11000:900009201;Leopoldplatz;Nauener Platz
+betweenness_dyn;120;21;de:11000:900009103;de:11000:900011101;Seestr.;Rehberge
+betweenness_dyn;121;23;de:11000:900009202;de:11000:900009203;Osloer Str.;Pankstr.
+betweenness_dyn;122;26;de:11000:900011102;de:11000:900086102;Afrikanische Str.;Kurt-Schumacher-Platz
+betweenness_dyn;123;28;de:11000:900012102;de:11000:900100011;Kochstr. (Checkpoint Charlie);Stadtmitte
+betweenness_dyn;124;30;de:11000:900012103;de:11000:900017101;Hallesches Tor;Mehringdamm
+betweenness_dyn;125;31;de:11000:900012103;de:11000:900017104;Hallesches Tor;Möckernbrücke
+betweenness_dyn;126;33;de:11000:900013101;de:11000:900100008;Moritzplatz;Heinrich-Heine-Str.
+betweenness_dyn;127;34;de:11000:900013102;de:11000:900013103;Kottbusser Tor;Prinzenstr.
+betweenness_dyn;128;38;de:11000:900014102;de:11000:900120004;Schlesisches Tor;Warschauer Str.
+betweenness_dyn;129;42;de:11000:900016202;de:11000:900078101;Südstern;Hermannplatz
+betweenness_dyn;130;44;de:11000:900017101;de:11000:900017104;Mehringdamm;Möckernbrücke
+betweenness_dyn;131;45;de:11000:900017102;de:11000:900068101;Platz der Luftbrücke;Paradestr.
+betweenness_dyn;132;47;de:11000:900017103;de:11000:900056104;Gleisdreieck;Bülowstr.
+betweenness_dyn;133;51;de:11000:900018102;de:11000:900035101;Halemweg;Siemensdamm
+betweenness_dyn;134;53;de:11000:900019204;de:11000:900022202;Mierendorffplatz;Richard-Wagner-Platz
+betweenness_dyn;135;56;de:11000:900022201;de:11000:900023101;Deutsche Oper;Ernst-Reuter-Platz
+betweenness_dyn;136;60;de:11000:900023201;de:11000:900023203;Zoologischer Garten Bhf;Kurfürstendamm
+betweenness_dyn;137;61;de:11000:900023201;de:11000:900056101;Zoologischer Garten Bhf;Wittenbergplatz
+betweenness_dyn;138;66;de:11000:900023203;de:11000:900056101;Kurfürstendamm;Wittenbergplatz
+betweenness_dyn;139;68;de:11000:900023302;de:11000:900041201;Adenauerplatz;Konstanzer Str.
+betweenness_dyn;140;69;de:11000:900024201;de:11000:900024202;Bismarckstr.;Wilmersdorfer Str.
+betweenness_dyn;141;71;de:11000:900025203;de:11000:900026101;Olympia-Stadion;Neu-Westend
+betweenness_dyn;142;73;de:11000:900026201;de:11000:900026202;Theodor-Heuss-Platz;Kaiserdamm
+betweenness_dyn;143;75;de:11000:900029301;de:11000:900033101;Altstadt Spandau;Zitadelle
+betweenness_dyn;144;78;de:11000:900034101;de:11000:900036101;Paulsternstr.;Rohrdamm
+betweenness_dyn;145;85;de:11000:900042101;de:11000:900043101;Spichernstr.;Hohenzollernplatz
+betweenness_dyn;146;87;de:11000:900043201;de:11000:900044201;Güntzelstr.;Berliner Str.
+betweenness_dyn;147;90;de:11000:900044202;de:11000:900061102;Bundesplatz;Friedrich-Wilhelm-Platz
+betweenness_dyn;148;91;de:11000:900045101;de:11000:900045102;Rüdesheimer Platz;Heidelberger Platz
+betweenness_dyn;149;93;de:11000:900050201;de:11000:900050282;Krumme Lanke;Onkel Toms Hütte
+betweenness_dyn;150;95;de:11000:900051201;de:11000:900051301;Freie Universität (Thielplatz);Oskar-Helene-Heim
+betweenness_dyn;151;98;de:11000:900051302;de:11000:900051303;Podbielskiallee;Dahlem-Dorf
+betweenness_dyn;152;99;de:11000:900054101;de:11000:900054105;Rathaus Schöneberg;Innsbrucker Platz
+betweenness_dyn;153;102;de:11000:900054102;de:11000:900058103;Kleistpark;Yorckstr.
+betweenness_dyn;154;104;de:11000:900055101;de:11000:900055102;Viktoria-Luise-Platz;Bayerischer Platz
+betweenness_dyn;155;110;de:11000:900062202;de:11000:900062203;Rathaus Steglitz;Schloßstr.
+betweenness_dyn;156;112;de:11000:900068201;de:11000:900068202;Tempelhof;Alt-Tempelhof
+betweenness_dyn;157;114;de:11000:900068302;de:11000:900069271;Kaiserin-Augusta-Str.;Ullsteinstr.
+betweenness_dyn;158;116;de:11000:900070101;de:11000:900070301;Westphalweg;Alt-Mariendorf
+betweenness_dyn;159;120;de:11000:900078103;de:11000:900078201;Karl-Marx-Str.;Neukölln
+betweenness_dyn;160;123;de:11000:900079201;de:11000:900079221;Leinestr.;Hermannstr.
+betweenness_dyn;161;125;de:11000:900080201;de:11000:900080401;Blaschkoallee;Parchimer Allee
+betweenness_dyn;162;128;de:11000:900082201;de:11000:900082202;Lipschitzallee;Johannisthaler Chaussee
+betweenness_dyn;163;131;de:11000:900083101;de:11000:900083201;Zwickauer Damm;Rudow
+betweenness_dyn;164;134;de:11000:900085202;de:11000:900085203;Franz-Neumann-Platz;Residenzstr.
+betweenness_dyn;165;135;de:11000:900086160;de:11000:900096458;Lindauer Allee;Karl-Bonhoeffer-Nervenklinik
+betweenness_dyn;166;136;de:11000:900096101;de:11000:900096410;Wittenau;Rathaus Reinickendorf
+betweenness_dyn;167;140;de:11000:900100003;de:11000:900100004;Alexanderplatz Bhf;Jannowitzbrücke
+betweenness_dyn;168;147;de:11000:900100009;de:11000:900100019;Naturkundemuseum;Oranienburger Tor
+betweenness_dyn;169;150;de:11000:900100010;de:11000:900100020;Anton-Wilhelm-Amo-Str.;Potsdamer Platz Bhf
+betweenness_dyn;170;153;de:11000:900100012;de:11000:900100013;Hausvogteiplatz;Spittelmarkt
+betweenness_dyn;171;155;de:11000:900100014;de:11000:900100015;Märkisches Museum;Klosterstr.
+betweenness_dyn;172;157;de:11000:900100017;de:11000:900120006;Schillingstr.;Strausberger Platz
+betweenness_dyn;173;158;de:11000:900100023;de:11000:900100051;Rosenthaler Platz;Weinmeisterstr.
+betweenness_dyn;174;161;de:11000:900100513;de:11000:900100537;Unter den Linden;Museumsinsel
+betweenness_dyn;175;164;de:11000:900110005;de:11000:900110006;Senefelderplatz;Eberswalder Str.
+betweenness_dyn;176;166;de:11000:900120001;de:11000:900160005;Frankfurter Allee;Magdalenenstr.
+betweenness_dyn;177;169;de:11000:900120008;de:11000:900120025;Frankfurter Tor;Weberwiese
+betweenness_dyn;178;170;de:11000:900130002;de:11000:900130011;Pankow;Vinetastr.
+betweenness_dyn;179;172;de:11000:900160004;de:11000:900161512;Lichtenberg Bhf;Friedrichsfelde
+betweenness_dyn;180;174;de:11000:900161002;de:11000:900171005;Tierpark;Biesdorf-Süd
+betweenness_dyn;181;177;de:11000:900175001;de:11000:900175004;Wuhletal;Kaulsdorf-Nord
+betweenness_dyn;182;179;de:11000:900175005;de:11000:900175006;Kienberg (Gärten der Welt);Cottbusser Platz
+betweenness_dyn;183;182;de:11000:900175010;de:11000:900175015;Hönow;Louis-Lewin-Str.
+betweenness_stat;1;106;de:11000:900056101;de:11000:900056102;Wittenbergplatz;Nollendorfplatz
+betweenness_stat;2;143;de:11000:900100003;de:11000:900100017;Alexanderplatz Bhf;Schillingstr.
+betweenness_stat;3;59;de:11000:900023101;de:11000:900023201;Ernst-Reuter-Platz;Zoologischer Garten Bhf
+betweenness_stat;4;31;de:11000:900012103;de:11000:900017104;Hallesches Tor;Möckernbrücke
+betweenness_stat;5;152;de:11000:900100011;de:11000:900100513;Stadtmitte;Unter den Linden
+betweenness_stat;6;157;de:11000:900100017;de:11000:900120006;Schillingstr.;Strausberger Platz
+betweenness_stat;7;56;de:11000:900022201;de:11000:900023101;Deutsche Oper;Ernst-Reuter-Platz
+betweenness_stat;8;61;de:11000:900023201;de:11000:900056101;Zoologischer Garten Bhf;Wittenbergplatz
+betweenness_stat;9;167;de:11000:900120006;de:11000:900120025;Strausberger Platz;Weberwiese
+betweenness_stat;10;57;de:11000:900022201;de:11000:900024201;Deutsche Oper;Bismarckstr.
+betweenness_stat;11;46;de:11000:900017103;de:11000:900017104;Gleisdreieck;Möckernbrücke
+betweenness_stat;12;169;de:11000:900120008;de:11000:900120025;Frankfurter Tor;Weberwiese
+betweenness_stat;13;27;de:11000:900012102;de:11000:900012103;Kochstr. (Checkpoint Charlie);Hallesches Tor
+betweenness_stat;14;28;de:11000:900012102;de:11000:900100011;Kochstr. (Checkpoint Charlie);Stadtmitte
+betweenness_stat;15;168;de:11000:900120008;de:11000:900120009;Frankfurter Tor;Samariterstr.
+betweenness_stat;16;32;de:11000:900013101;de:11000:900013102;Moritzplatz;Kottbusser Tor
+betweenness_stat;17;48;de:11000:900017104;de:11000:900058103;Möckernbrücke;Yorckstr.
+betweenness_stat;18;165;de:11000:900120001;de:11000:900120009;Frankfurter Allee;Samariterstr.
+betweenness_stat;19;33;de:11000:900013101;de:11000:900100008;Moritzplatz;Heinrich-Heine-Str.
+betweenness_stat;20;146;de:11000:900100004;de:11000:900100008;Jannowitzbrücke;Heinrich-Heine-Str.
+betweenness_stat;21;140;de:11000:900100003;de:11000:900100004;Alexanderplatz Bhf;Jannowitzbrücke
+betweenness_stat;22;102;de:11000:900054102;de:11000:900058103;Kleistpark;Yorckstr.
+betweenness_stat;23;101;de:11000:900054102;de:11000:900054103;Kleistpark;Eisenacher Str.
+betweenness_stat;24;103;de:11000:900054103;de:11000:900055102;Eisenacher Str.;Bayerischer Platz
+betweenness_stat;25;166;de:11000:900120001;de:11000:900160005;Frankfurter Allee;Magdalenenstr.
+betweenness_stat;26;89;de:11000:900044201;de:11000:900055102;Berliner Str.;Bayerischer Platz
+betweenness_stat;27;161;de:11000:900100513;de:11000:900100537;Unter den Linden;Museumsinsel
+betweenness_stat;28;58;de:11000:900022202;de:11000:900024201;Richard-Wagner-Platz;Bismarckstr.
+betweenness_stat;29;117;de:11000:900078101;de:11000:900078102;Hermannplatz;Rathaus Neukölln
+betweenness_stat;30;171;de:11000:900160004;de:11000:900160005;Lichtenberg Bhf;Magdalenenstr.
+betweenness_stat;31;29;de:11000:900012103;de:11000:900013103;Hallesches Tor;Prinzenstr.
+betweenness_stat;32;160;de:11000:900100045;de:11000:900100537;Rotes Rathaus;Museumsinsel
+betweenness_stat;33;34;de:11000:900013102;de:11000:900013103;Kottbusser Tor;Prinzenstr.
+betweenness_stat;34;44;de:11000:900017101;de:11000:900017104;Mehringdamm;Möckernbrücke
+betweenness_stat;35;4;de:11000:900003101;de:11000:900023201;Hansaplatz;Zoologischer Garten Bhf
+betweenness_stat;36;144;de:11000:900100003;de:11000:900100045;Alexanderplatz Bhf;Rotes Rathaus
+betweenness_stat;37;53;de:11000:900019204;de:11000:900022202;Mierendorffplatz;Richard-Wagner-Platz
+betweenness_stat;38;119;de:11000:900078102;de:11000:900078103;Rathaus Neukölln;Karl-Marx-Str.
+betweenness_stat;39;172;de:11000:900160004;de:11000:900161512;Lichtenberg Bhf;Friedrichsfelde
+betweenness_stat;40;3;de:11000:900003101;de:11000:900003104;Hansaplatz;Turmstr.
+betweenness_stat;41;2;de:11000:900002201;de:11000:900003104;Birkenstr.;Turmstr.
+betweenness_stat;42;40;de:11000:900016101;de:11000:900017101;Gneisenaustr.;Mehringdamm
+betweenness_stat;43;0;de:11000:900001201;de:11000:900002201;Westhafen;Birkenstr.
+betweenness_stat;44;52;de:11000:900019204;de:11000:900020201;Mierendorffplatz;Jungfernheide Bhf
+betweenness_stat;45;120;de:11000:900078103;de:11000:900078201;Karl-Marx-Str.;Neukölln
+betweenness_stat;46;173;de:11000:900161002;de:11000:900161512;Tierpark;Friedrichsfelde
+betweenness_stat;47;47;de:11000:900017103;de:11000:900056104;Gleisdreieck;Bülowstr.
+betweenness_stat;48;7;de:11000:900005201;de:11000:900017103;Kurfürstenstr.;Gleisdreieck
+betweenness_stat;49;1;de:11000:900001201;de:11000:900009101;Westhafen;Amrumer Str.
+betweenness_stat;50;107;de:11000:900056102;de:11000:900056104;Nollendorfplatz;Bülowstr.
+betweenness_stat;51;8;de:11000:900005201;de:11000:900056102;Kurfürstenstr.;Nollendorfplatz
+betweenness_stat;52;17;de:11000:900009101;de:11000:900009102;Amrumer Str.;Leopoldplatz
+betweenness_stat;53;39;de:11000:900016101;de:11000:900016202;Gneisenaustr.;Südstern
+betweenness_stat;54;42;de:11000:900016202;de:11000:900078101;Südstern;Hermannplatz
+betweenness_stat;55;20;de:11000:900009102;de:11000:900009201;Leopoldplatz;Nauener Platz
+betweenness_stat;56;84;de:11000:900041102;de:11000:900044201;Blissestr.;Berliner Str.
+betweenness_stat;57;50;de:11000:900018101;de:11000:900020201;Jakob-Kaiser-Platz;Jungfernheide Bhf
+betweenness_stat;58;83;de:11000:900041101;de:11000:900045102;Fehrbelliner Platz;Heidelberger Platz
+betweenness_stat;59;121;de:11000:900078201;de:11000:900080202;Neukölln;Grenzallee
+betweenness_stat;60;174;de:11000:900161002;de:11000:900171005;Tierpark;Biesdorf-Süd
+betweenness_stat;61;22;de:11000:900009201;de:11000:900009202;Nauener Platz;Osloer Str.
+betweenness_stat;62;145;de:11000:900100003;de:11000:900100051;Alexanderplatz Bhf;Weinmeisterstr.
+betweenness_stat;63;80;de:11000:900041101;de:11000:900041102;Fehrbelliner Platz;Blissestr.
+betweenness_stat;64;43;de:11000:900017101;de:11000:900017102;Mehringdamm;Platz der Luftbrücke
+betweenness_stat;65;49;de:11000:900018101;de:11000:900018102;Jakob-Kaiser-Platz;Halemweg
+betweenness_stat;66;91;de:11000:900045101;de:11000:900045102;Rüdesheimer Platz;Heidelberger Platz
+betweenness_stat;67;124;de:11000:900080201;de:11000:900080202;Blaschkoallee;Grenzallee
+betweenness_stat;68;175;de:11000:900171005;de:11000:900171006;Biesdorf-Süd;Elsterwerdaer Platz
+betweenness_stat;69;158;de:11000:900100023;de:11000:900100051;Rosenthaler Platz;Weinmeisterstr.
+betweenness_stat;70;36;de:11000:900013102;de:11000:900016201;Kottbusser Tor;Schönleinstr.
+betweenness_stat;71;14;de:11000:900007110;de:11000:900100023;Bernauer Str.;Rosenthaler Platz
+betweenness_stat;72;13;de:11000:900007103;de:11000:900007110;Voltastr.;Bernauer Str.
+betweenness_stat;73;11;de:11000:900007102;de:11000:900007103;Gesundbrunnen Bhf;Voltastr.
+betweenness_stat;74;12;de:11000:900007102;de:11000:900009203;Gesundbrunnen Bhf;Pankstr.
+betweenness_stat;75;23;de:11000:900009202;de:11000:900009203;Osloer Str.;Pankstr.
+betweenness_stat;76;24;de:11000:900009202;de:11000:900085202;Osloer Str.;Franz-Neumann-Platz
+betweenness_stat;77;45;de:11000:900017102;de:11000:900068101;Platz der Luftbrücke;Paradestr.
+betweenness_stat;78;51;de:11000:900018102;de:11000:900035101;Halemweg;Siemensdamm
+betweenness_stat;79;92;de:11000:900045101;de:11000:900051202;Rüdesheimer Platz;Breitenbachplatz
+betweenness_stat;80;125;de:11000:900080201;de:11000:900080401;Blaschkoallee;Parchimer Allee
+betweenness_stat;81;176;de:11000:900171006;de:11000:900175001;Elsterwerdaer Platz;Wuhletal
+betweenness_stat;82;139;de:11000:900100001;de:11000:900100513;Friedrichstr. Bhf;Unter den Linden
+betweenness_stat;83;41;de:11000:900016201;de:11000:900078101;Schönleinstr.;Hermannplatz
+betweenness_stat;84;138;de:11000:900100001;de:11000:900100019;Friedrichstr. Bhf;Oranienburger Tor
+betweenness_stat;85;54;de:11000:900022101;de:11000:900024201;Sophie-Charlotte-Platz;Bismarckstr.
+betweenness_stat;86;79;de:11000:900035101;de:11000:900036101;Siemensdamm;Rohrdamm
+betweenness_stat;87;97;de:11000:900051202;de:11000:900051302;Breitenbachplatz;Podbielskiallee
+betweenness_stat;88;111;de:11000:900068101;de:11000:900068201;Paradestr.;Tempelhof
+betweenness_stat;89;126;de:11000:900080401;de:11000:900080402;Parchimer Allee;Britz-Süd
+betweenness_stat;90;134;de:11000:900085202;de:11000:900085203;Franz-Neumann-Platz;Residenzstr.
+betweenness_stat;91;142;de:11000:900100003;de:11000:900100016;Alexanderplatz Bhf;Rosa-Luxemburg-Platz
+betweenness_stat;92;177;de:11000:900175001;de:11000:900175004;Wuhletal;Kaulsdorf-Nord
+betweenness_stat;93;30;de:11000:900012103;de:11000:900017101;Hallesches Tor;Mehringdamm
+betweenness_stat;94;147;de:11000:900100009;de:11000:900100019;Naturkundemuseum;Oranienburger Tor
+betweenness_stat;95;9;de:11000:900005252;de:11000:900017103;Mendelssohn-Bartholdy-Park;Gleisdreieck
+betweenness_stat;96;148;de:11000:900100009;de:11000:900100501;Naturkundemuseum;Schwartzkopffstr.
+betweenness_stat;97;55;de:11000:900022101;de:11000:900026202;Sophie-Charlotte-Platz;Kaiserdamm
+betweenness_stat;98;78;de:11000:900034101;de:11000:900036101;Paulsternstr.;Rohrdamm
+betweenness_stat;99;88;de:11000:900044201;de:11000:900044202;Berliner Str.;Bundesplatz
+betweenness_stat;100;98;de:11000:900051302;de:11000:900051303;Podbielskiallee;Dahlem-Dorf
+betweenness_stat;101;112;de:11000:900068201;de:11000:900068202;Tempelhof;Alt-Tempelhof
+betweenness_stat;102;127;de:11000:900080402;de:11000:900082202;Britz-Süd;Johannisthaler Chaussee
+betweenness_stat;103;132;de:11000:900085104;de:11000:900085203;Paracelsus-Bad;Residenzstr.
+betweenness_stat;104;156;de:11000:900100016;de:11000:900110005;Rosa-Luxemburg-Platz;Senefelderplatz
+betweenness_stat;105;178;de:11000:900175004;de:11000:900175005;Kaulsdorf-Nord;Kienberg (Gärten der Welt)
+betweenness_stat;106;65;de:11000:900023203;de:11000:900042101;Kurfürstendamm;Spichernstr.
+betweenness_stat;107;16;de:11000:900008102;de:11000:900100501;Reinickendorfer Str.;Schwartzkopffstr.
+betweenness_stat;108;15;de:11000:900008102;de:11000:900009104;Reinickendorfer Str.;Wedding
+betweenness_stat;109;19;de:11000:900009102;de:11000:900009104;Leopoldplatz;Wedding
+betweenness_stat;110;149;de:11000:900100010;de:11000:900100011;Anton-Wilhelm-Amo-Str.;Stadtmitte
+betweenness_stat;111;10;de:11000:900005252;de:11000:900100020;Mendelssohn-Bartholdy-Park;Potsdamer Platz Bhf
+betweenness_stat;112;150;de:11000:900100010;de:11000:900100020;Anton-Wilhelm-Amo-Str.;Potsdamer Platz Bhf
+betweenness_stat;113;60;de:11000:900023201;de:11000:900023203;Zoologischer Garten Bhf;Kurfürstendamm
+betweenness_stat;114;81;de:11000:900041101;de:11000:900041201;Fehrbelliner Platz;Konstanzer Str.
+betweenness_stat;115;18;de:11000:900009102;de:11000:900009103;Leopoldplatz;Seestr.
+betweenness_stat;116;73;de:11000:900026201;de:11000:900026202;Theodor-Heuss-Platz;Kaiserdamm
+betweenness_stat;117;77;de:11000:900034101;de:11000:900034102;Paulsternstr.;Haselhorst
+betweenness_stat;118;90;de:11000:900044202;de:11000:900061102;Bundesplatz;Friedrich-Wilhelm-Platz
+betweenness_stat;119;96;de:11000:900051201;de:11000:900051303;Freie Universität (Thielplatz);Dahlem-Dorf
+betweenness_stat;120;113;de:11000:900068202;de:11000:900068302;Alt-Tempelhof;Kaiserin-Augusta-Str.
+betweenness_stat;121;128;de:11000:900082201;de:11000:900082202;Lipschitzallee;Johannisthaler Chaussee
+betweenness_stat;122;133;de:11000:900085104;de:11000:900086160;Paracelsus-Bad;Lindauer Allee
+betweenness_stat;123;164;de:11000:900110005;de:11000:900110006;Senefelderplatz;Eberswalder Str.
+betweenness_stat;124;179;de:11000:900175005;de:11000:900175006;Kienberg (Gärten der Welt);Cottbusser Platz
+betweenness_stat;125;69;de:11000:900024201;de:11000:900024202;Bismarckstr.;Wilmersdorfer Str.
+betweenness_stat;126;85;de:11000:900042101;de:11000:900043101;Spichernstr.;Hohenzollernplatz
+betweenness_stat;127;68;de:11000:900023302;de:11000:900041201;Adenauerplatz;Konstanzer Str.
+betweenness_stat;128;67;de:11000:900023302;de:11000:900024202;Adenauerplatz;Wilmersdorfer Str.
+betweenness_stat;129;21;de:11000:900009103;de:11000:900011101;Seestr.;Rehberge
+betweenness_stat;130;35;de:11000:900013102;de:11000:900014101;Kottbusser Tor;Görlitzer Bahnhof
+betweenness_stat;131;72;de:11000:900026101;de:11000:900026201;Neu-Westend;Theodor-Heuss-Platz
+betweenness_stat;132;76;de:11000:900033101;de:11000:900034102;Zitadelle;Haselhorst
+betweenness_stat;133;95;de:11000:900051201;de:11000:900051301;Freie Universität (Thielplatz);Oskar-Helene-Heim
+betweenness_stat;134;108;de:11000:900061101;de:11000:900061102;Walther-Schreiber-Platz;Friedrich-Wilhelm-Platz
+betweenness_stat;135;114;de:11000:900068302;de:11000:900069271;Kaiserin-Augusta-Str.;Ullsteinstr.
+betweenness_stat;136;118;de:11000:900078101;de:11000:900079202;Hermannplatz;Boddinstr.
+betweenness_stat;137;129;de:11000:900082201;de:11000:900083102;Lipschitzallee;Wutzkyallee
+betweenness_stat;138;135;de:11000:900086160;de:11000:900096458;Lindauer Allee;Karl-Bonhoeffer-Nervenklinik
+betweenness_stat;139;159;de:11000:900100025;de:11000:900100513;Brandenburger Tor;Unter den Linden
+betweenness_stat;140;162;de:11000:900110001;de:11000:900110006;Schönhauser Allee;Eberswalder Str.
+betweenness_stat;141;180;de:11000:900175006;de:11000:900175007;Cottbusser Platz;Hellersdorf
+betweenness_stat;142;82;de:11000:900041101;de:11000:900043101;Fehrbelliner Platz;Hohenzollernplatz
+betweenness_stat;143;105;de:11000:900055101;de:11000:900056102;Viktoria-Luise-Platz;Nollendorfplatz
+betweenness_stat;144;151;de:11000:900100011;de:11000:900100012;Stadtmitte;Hausvogteiplatz
+betweenness_stat;145;153;de:11000:900100012;de:11000:900100013;Hausvogteiplatz;Spittelmarkt
+betweenness_stat;146;6;de:11000:900003254;de:11000:900100025;Bundestag;Brandenburger Tor
+betweenness_stat;147;25;de:11000:900011101;de:11000:900011102;Rehberge;Afrikanische Str.
+betweenness_stat;148;37;de:11000:900014101;de:11000:900014102;Görlitzer Bahnhof;Schlesisches Tor
+betweenness_stat;149;71;de:11000:900025203;de:11000:900026101;Olympia-Stadion;Neu-Westend
+betweenness_stat;150;75;de:11000:900029301;de:11000:900033101;Altstadt Spandau;Zitadelle
+betweenness_stat;151;94;de:11000:900050282;de:11000:900051301;Onkel Toms Hütte;Oskar-Helene-Heim
+betweenness_stat;152;100;de:11000:900054101;de:11000:900055102;Rathaus Schöneberg;Bayerischer Platz
+betweenness_stat;153;109;de:11000:900061101;de:11000:900062203;Walther-Schreiber-Platz;Schloßstr.
+betweenness_stat;154;115;de:11000:900069271;de:11000:900070101;Ullsteinstr.;Westphalweg
+betweenness_stat;155;122;de:11000:900079201;de:11000:900079202;Leinestr.;Boddinstr.
+betweenness_stat;156;130;de:11000:900083101;de:11000:900083102;Zwickauer Damm;Wutzkyallee
+betweenness_stat;157;137;de:11000:900096410;de:11000:900096458;Rathaus Reinickendorf;Karl-Bonhoeffer-Nervenklinik
+betweenness_stat;158;163;de:11000:900110001;de:11000:900130011;Schönhauser Allee;Vinetastr.
+betweenness_stat;159;181;de:11000:900175007;de:11000:900175015;Hellersdorf;Louis-Lewin-Str.
+betweenness_stat;160;87;de:11000:900043201;de:11000:900044201;Güntzelstr.;Berliner Str.
+betweenness_stat;161;104;de:11000:900055101;de:11000:900055102;Viktoria-Luise-Platz;Bayerischer Platz
+betweenness_stat;162;66;de:11000:900023203;de:11000:900056101;Kurfürstendamm;Wittenbergplatz
+betweenness_stat;163;86;de:11000:900042101;de:11000:900043201;Spichernstr.;Güntzelstr.
+betweenness_stat;164;63;de:11000:900023202;de:11000:900056101;Augsburger Str.;Wittenbergplatz
+betweenness_stat;165;154;de:11000:900100013;de:11000:900100014;Spittelmarkt;Märkisches Museum
+betweenness_stat;166;141;de:11000:900100003;de:11000:900100015;Alexanderplatz Bhf;Klosterstr.
+betweenness_stat;167;155;de:11000:900100014;de:11000:900100015;Märkisches Museum;Klosterstr.
+betweenness_stat;168;5;de:11000:900003201;de:11000:900003254;Berlin Hauptbahnhof;Bundestag
+betweenness_stat;169;26;de:11000:900011102;de:11000:900086102;Afrikanische Str.;Kurt-Schumacher-Platz
+betweenness_stat;170;38;de:11000:900014102;de:11000:900120004;Schlesisches Tor;Warschauer Str.
+betweenness_stat;171;64;de:11000:900023203;de:11000:900023301;Kurfürstendamm;Uhlandstr.
+betweenness_stat;172;70;de:11000:900025202;de:11000:900025203;Ruhleben;Olympia-Stadion
+betweenness_stat;173;74;de:11000:900029301;de:11000:900029302;Altstadt Spandau;Rathaus Spandau
+betweenness_stat;174;93;de:11000:900050201;de:11000:900050282;Krumme Lanke;Onkel Toms Hütte
+betweenness_stat;175;99;de:11000:900054101;de:11000:900054105;Rathaus Schöneberg;Innsbrucker Platz
+betweenness_stat;176;110;de:11000:900062202;de:11000:900062203;Rathaus Steglitz;Schloßstr.
+betweenness_stat;177;116;de:11000:900070101;de:11000:900070301;Westphalweg;Alt-Mariendorf
+betweenness_stat;178;123;de:11000:900079201;de:11000:900079221;Leinestr.;Hermannstr.
+betweenness_stat;179;131;de:11000:900083101;de:11000:900083201;Zwickauer Damm;Rudow
+betweenness_stat;180;136;de:11000:900096101;de:11000:900096410;Wittenau;Rathaus Reinickendorf
+betweenness_stat;181;170;de:11000:900130002;de:11000:900130011;Pankow;Vinetastr.
+betweenness_stat;182;182;de:11000:900175010;de:11000:900175015;Hönow;Louis-Lewin-Str.
+betweenness_stat;183;62;de:11000:900023202;de:11000:900042101;Augsburger Str.;Spichernstr.
+demand;1;106;de:11000:900056101;de:11000:900056102;Wittenbergplatz;Nollendorfplatz
+demand;2;162;de:11000:900110001;de:11000:900110006;Schönhauser Allee;Eberswalder Str.
+demand;3;163;de:11000:900110001;de:11000:900130011;Schönhauser Allee;Vinetastr.
+demand;4;37;de:11000:900014101;de:11000:900014102;Görlitzer Bahnhof;Schlesisches Tor
+demand;5;35;de:11000:900013102;de:11000:900014101;Kottbusser Tor;Görlitzer Bahnhof
+demand;6;38;de:11000:900014102;de:11000:900120004;Schlesisches Tor;Warschauer Str.
+demand;7;168;de:11000:900120008;de:11000:900120009;Frankfurter Tor;Samariterstr.
+demand;8;34;de:11000:900013102;de:11000:900013103;Kottbusser Tor;Prinzenstr.
+demand;9;8;de:11000:900005201;de:11000:900056102;Kurfürstenstr.;Nollendorfplatz
+demand;10;165;de:11000:900120001;de:11000:900120009;Frankfurter Allee;Samariterstr.
+demand;11;29;de:11000:900012103;de:11000:900013103;Hallesches Tor;Prinzenstr.
+demand;12;170;de:11000:900130002;de:11000:900130011;Pankow;Vinetastr.
+demand;13;172;de:11000:900160004;de:11000:900161512;Lichtenberg Bhf;Friedrichsfelde
+demand;14;164;de:11000:900110005;de:11000:900110006;Senefelderplatz;Eberswalder Str.
+demand;15;31;de:11000:900012103;de:11000:900017104;Hallesches Tor;Möckernbrücke
+demand;16;2;de:11000:900002201;de:11000:900003104;Birkenstr.;Turmstr.
+demand;17;117;de:11000:900078101;de:11000:900078102;Hermannplatz;Rathaus Neukölln
+demand;18;119;de:11000:900078102;de:11000:900078103;Rathaus Neukölln;Karl-Marx-Str.
+demand;19;7;de:11000:900005201;de:11000:900017103;Kurfürstenstr.;Gleisdreieck
+demand;20;46;de:11000:900017103;de:11000:900017104;Gleisdreieck;Möckernbrücke
+demand;21;169;de:11000:900120008;de:11000:900120025;Frankfurter Tor;Weberwiese
+demand;22;180;de:11000:900175006;de:11000:900175007;Cottbusser Platz;Hellersdorf
+demand;23;173;de:11000:900161002;de:11000:900161512;Tierpark;Friedrichsfelde
+demand;24;55;de:11000:900022101;de:11000:900026202;Sophie-Charlotte-Platz;Kaiserdamm
+demand;25;181;de:11000:900175007;de:11000:900175015;Hellersdorf;Louis-Lewin-Str.
+demand;26;171;de:11000:900160004;de:11000:900160005;Lichtenberg Bhf;Magdalenenstr.
+demand;27;3;de:11000:900003101;de:11000:900003104;Hansaplatz;Turmstr.
+demand;28;123;de:11000:900079201;de:11000:900079221;Leinestr.;Hermannstr.
+demand;29;134;de:11000:900085202;de:11000:900085203;Franz-Neumann-Platz;Residenzstr.
+demand;30;167;de:11000:900120006;de:11000:900120025;Strausberger Platz;Weberwiese
+demand;31;118;de:11000:900078101;de:11000:900079202;Hermannplatz;Boddinstr.
+demand;32;101;de:11000:900054102;de:11000:900054103;Kleistpark;Eisenacher Str.
+demand;33;23;de:11000:900009202;de:11000:900009203;Osloer Str.;Pankstr.
+demand;34;120;de:11000:900078103;de:11000:900078201;Karl-Marx-Str.;Neukölln
+demand;35;108;de:11000:900061101;de:11000:900061102;Walther-Schreiber-Platz;Friedrich-Wilhelm-Platz
+demand;36;24;de:11000:900009202;de:11000:900085202;Osloer Str.;Franz-Neumann-Platz
+demand;37;41;de:11000:900016201;de:11000:900078101;Schönleinstr.;Hermannplatz
+demand;38;22;de:11000:900009201;de:11000:900009202;Nauener Platz;Osloer Str.
+demand;39;166;de:11000:900120001;de:11000:900160005;Frankfurter Allee;Magdalenenstr.
+demand;40;110;de:11000:900062202;de:11000:900062203;Rathaus Steglitz;Schloßstr.
+demand;41;54;de:11000:900022101;de:11000:900024201;Sophie-Charlotte-Platz;Bismarckstr.
+demand;42;68;de:11000:900023302;de:11000:900041201;Adenauerplatz;Konstanzer Str.
+demand;43;67;de:11000:900023302;de:11000:900024202;Adenauerplatz;Wilmersdorfer Str.
+demand;44;21;de:11000:900009103;de:11000:900011101;Seestr.;Rehberge
+demand;45;12;de:11000:900007102;de:11000:900009203;Gesundbrunnen Bhf;Pankstr.
+demand;46;109;de:11000:900061101;de:11000:900062203;Walther-Schreiber-Platz;Schloßstr.
+demand;47;116;de:11000:900070101;de:11000:900070301;Westphalweg;Alt-Mariendorf
+demand;48;122;de:11000:900079201;de:11000:900079202;Leinestr.;Boddinstr.
+demand;49;53;de:11000:900019204;de:11000:900022202;Mierendorffplatz;Richard-Wagner-Platz
+demand;50;156;de:11000:900100016;de:11000:900110005;Rosa-Luxemburg-Platz;Senefelderplatz
+demand;51;90;de:11000:900044202;de:11000:900061102;Bundesplatz;Friedrich-Wilhelm-Platz
+demand;52;129;de:11000:900082201;de:11000:900083102;Lipschitzallee;Wutzkyallee
+demand;53;102;de:11000:900054102;de:11000:900058103;Kleistpark;Yorckstr.
+demand;54;115;de:11000:900069271;de:11000:900070101;Ullsteinstr.;Westphalweg
+demand;55;42;de:11000:900016202;de:11000:900078101;Südstern;Hermannplatz
+demand;56;157;de:11000:900100017;de:11000:900120006;Schillingstr.;Strausberger Platz
+demand;57;20;de:11000:900009102;de:11000:900009201;Leopoldplatz;Nauener Platz
+demand;58;128;de:11000:900082201;de:11000:900082202;Lipschitzallee;Johannisthaler Chaussee
+demand;59;13;de:11000:900007103;de:11000:900007110;Voltastr.;Bernauer Str.
+demand;60;18;de:11000:900009102;de:11000:900009103;Leopoldplatz;Seestr.
+demand;61;121;de:11000:900078201;de:11000:900080202;Neukölln;Grenzallee
+demand;62;36;de:11000:900013102;de:11000:900016201;Kottbusser Tor;Schönleinstr.
+demand;63;113;de:11000:900068202;de:11000:900068302;Alt-Tempelhof;Kaiserin-Augusta-Str.
+demand;64;14;de:11000:900007110;de:11000:900100023;Bernauer Str.;Rosenthaler Platz
+demand;65;132;de:11000:900085104;de:11000:900085203;Paracelsus-Bad;Residenzstr.
+demand;66;114;de:11000:900068302;de:11000:900069271;Kaiserin-Augusta-Str.;Ullsteinstr.
+demand;67;74;de:11000:900029301;de:11000:900029302;Altstadt Spandau;Rathaus Spandau
+demand;68;0;de:11000:900001201;de:11000:900002201;Westhafen;Birkenstr.
+demand;69;103;de:11000:900054103;de:11000:900055102;Eisenacher Str.;Bayerischer Platz
+demand;70;178;de:11000:900175004;de:11000:900175005;Kaulsdorf-Nord;Kienberg (Gärten der Welt)
+demand;71;11;de:11000:900007102;de:11000:900007103;Gesundbrunnen Bhf;Voltastr.
+demand;72;92;de:11000:900045101;de:11000:900051202;Rüdesheimer Platz;Breitenbachplatz
+demand;73;32;de:11000:900013101;de:11000:900013102;Moritzplatz;Kottbusser Tor
+demand;74;99;de:11000:900054101;de:11000:900054105;Rathaus Schöneberg;Innsbrucker Platz
+demand;75;88;de:11000:900044201;de:11000:900044202;Berliner Str.;Bundesplatz
+demand;76;33;de:11000:900013101;de:11000:900100008;Moritzplatz;Heinrich-Heine-Str.
+demand;77;39;de:11000:900016101;de:11000:900016202;Gneisenaustr.;Südstern
+demand;78;58;de:11000:900022202;de:11000:900024201;Richard-Wagner-Platz;Bismarckstr.
+demand;79;136;de:11000:900096101;de:11000:900096410;Wittenau;Rathaus Reinickendorf
+demand;80;177;de:11000:900175001;de:11000:900175004;Wuhletal;Kaulsdorf-Nord
+demand;81;43;de:11000:900017101;de:11000:900017102;Mehringdamm;Platz der Luftbrücke
+demand;82;25;de:11000:900011101;de:11000:900011102;Rehberge;Afrikanische Str.
+demand;83;130;de:11000:900083101;de:11000:900083102;Zwickauer Damm;Wutzkyallee
+demand;84;105;de:11000:900055101;de:11000:900056102;Viktoria-Luise-Platz;Nollendorfplatz
+demand;85;40;de:11000:900016101;de:11000:900017101;Gneisenaustr.;Mehringdamm
+demand;86;174;de:11000:900161002;de:11000:900171005;Tierpark;Biesdorf-Süd
+demand;87;127;de:11000:900080402;de:11000:900082202;Britz-Süd;Johannisthaler Chaussee
+demand;88;84;de:11000:900041102;de:11000:900044201;Blissestr.;Berliner Str.
+demand;89;179;de:11000:900175005;de:11000:900175006;Kienberg (Gärten der Welt);Cottbusser Platz
+demand;90;17;de:11000:900009101;de:11000:900009102;Amrumer Str.;Leopoldplatz
+demand;91;73;de:11000:900026201;de:11000:900026202;Theodor-Heuss-Platz;Kaiserdamm
+demand;92;91;de:11000:900045101;de:11000:900045102;Rüdesheimer Platz;Heidelberger Platz
+demand;93;16;de:11000:900008102;de:11000:900100501;Reinickendorfer Str.;Schwartzkopffstr.
+demand;94;107;de:11000:900056102;de:11000:900056104;Nollendorfplatz;Bülowstr.
+demand;95;124;de:11000:900080201;de:11000:900080202;Blaschkoallee;Grenzallee
+demand;96;45;de:11000:900017102;de:11000:900068101;Platz der Luftbrücke;Paradestr.
+demand;97;125;de:11000:900080201;de:11000:900080401;Blaschkoallee;Parchimer Allee
+demand;98;131;de:11000:900083101;de:11000:900083201;Zwickauer Damm;Rudow
+demand;99;15;de:11000:900008102;de:11000:900009104;Reinickendorfer Str.;Wedding
+demand;100;69;de:11000:900024201;de:11000:900024202;Bismarckstr.;Wilmersdorfer Str.
+demand;101;26;de:11000:900011102;de:11000:900086102;Afrikanische Str.;Kurt-Schumacher-Platz
+demand;102;104;de:11000:900055101;de:11000:900055102;Viktoria-Luise-Platz;Bayerischer Platz
+demand;103;52;de:11000:900019204;de:11000:900020201;Mierendorffplatz;Jungfernheide Bhf
+demand;104;81;de:11000:900041101;de:11000:900041201;Fehrbelliner Platz;Konstanzer Str.
+demand;105;89;de:11000:900044201;de:11000:900055102;Berliner Str.;Bayerischer Platz
+demand;106;19;de:11000:900009102;de:11000:900009104;Leopoldplatz;Wedding
+demand;107;158;de:11000:900100023;de:11000:900100051;Rosenthaler Platz;Weinmeisterstr.
+demand;108;72;de:11000:900026101;de:11000:900026201;Neu-Westend;Theodor-Heuss-Platz
+demand;109;126;de:11000:900080401;de:11000:900080402;Parchimer Allee;Britz-Süd
+demand;110;148;de:11000:900100009;de:11000:900100501;Naturkundemuseum;Schwartzkopffstr.
+demand;111;137;de:11000:900096410;de:11000:900096458;Rathaus Reinickendorf;Karl-Bonhoeffer-Nervenklinik
+demand;112;80;de:11000:900041101;de:11000:900041102;Fehrbelliner Platz;Blissestr.
+demand;113;56;de:11000:900022201;de:11000:900023101;Deutsche Oper;Ernst-Reuter-Platz
+demand;114;100;de:11000:900054101;de:11000:900055102;Rathaus Schöneberg;Bayerischer Platz
+demand;115;1;de:11000:900001201;de:11000:900009101;Westhafen;Amrumer Str.
+demand;116;97;de:11000:900051202;de:11000:900051302;Breitenbachplatz;Podbielskiallee
+demand;117;112;de:11000:900068201;de:11000:900068202;Tempelhof;Alt-Tempelhof
+demand;118;51;de:11000:900018102;de:11000:900035101;Halemweg;Siemensdamm
+demand;119;48;de:11000:900017104;de:11000:900058103;Möckernbrücke;Yorckstr.
+demand;120;87;de:11000:900043201;de:11000:900044201;Güntzelstr.;Berliner Str.
+demand;121;143;de:11000:900100003;de:11000:900100017;Alexanderplatz Bhf;Schillingstr.
+demand;122;49;de:11000:900018101;de:11000:900018102;Jakob-Kaiser-Platz;Halemweg
+demand;123;146;de:11000:900100004;de:11000:900100008;Jannowitzbrücke;Heinrich-Heine-Str.
+demand;124;27;de:11000:900012102;de:11000:900012103;Kochstr. (Checkpoint Charlie);Hallesches Tor
+demand;125;93;de:11000:900050201;de:11000:900050282;Krumme Lanke;Onkel Toms Hütte
+demand;126;77;de:11000:900034101;de:11000:900034102;Paulsternstr.;Haselhorst
+demand;127;82;de:11000:900041101;de:11000:900043101;Fehrbelliner Platz;Hohenzollernplatz
+demand;128;57;de:11000:900022201;de:11000:900024201;Deutsche Oper;Bismarckstr.
+demand;129;147;de:11000:900100009;de:11000:900100019;Naturkundemuseum;Oranienburger Tor
+demand;130;94;de:11000:900050282;de:11000:900051301;Onkel Toms Hütte;Oskar-Helene-Heim
+demand;131;44;de:11000:900017101;de:11000:900017104;Mehringdamm;Möckernbrücke
+demand;132;75;de:11000:900029301;de:11000:900033101;Altstadt Spandau;Zitadelle
+demand;133;71;de:11000:900025203;de:11000:900026101;Olympia-Stadion;Neu-Westend
+demand;134;182;de:11000:900175010;de:11000:900175015;Hönow;Louis-Lewin-Str.
+demand;135;135;de:11000:900086160;de:11000:900096458;Lindauer Allee;Karl-Bonhoeffer-Nervenklinik
+demand;136;30;de:11000:900012103;de:11000:900017101;Hallesches Tor;Mehringdamm
+demand;137;85;de:11000:900042101;de:11000:900043101;Spichernstr.;Hohenzollernplatz
+demand;138;79;de:11000:900035101;de:11000:900036101;Siemensdamm;Rohrdamm
+demand;139;83;de:11000:900041101;de:11000:900045102;Fehrbelliner Platz;Heidelberger Platz
+demand;140;133;de:11000:900085104;de:11000:900086160;Paracelsus-Bad;Lindauer Allee
+demand;141;4;de:11000:900003101;de:11000:900023201;Hansaplatz;Zoologischer Garten Bhf
+demand;142;142;de:11000:900100003;de:11000:900100016;Alexanderplatz Bhf;Rosa-Luxemburg-Platz
+demand;143;76;de:11000:900033101;de:11000:900034102;Zitadelle;Haselhorst
+demand;144;176;de:11000:900171006;de:11000:900175001;Elsterwerdaer Platz;Wuhletal
+demand;145;63;de:11000:900023202;de:11000:900056101;Augsburger Str.;Wittenbergplatz
+demand;146;175;de:11000:900171005;de:11000:900171006;Biesdorf-Süd;Elsterwerdaer Platz
+demand;147;145;de:11000:900100003;de:11000:900100051;Alexanderplatz Bhf;Weinmeisterstr.
+demand;148;50;de:11000:900018101;de:11000:900020201;Jakob-Kaiser-Platz;Jungfernheide Bhf
+demand;149;28;de:11000:900012102;de:11000:900100011;Kochstr. (Checkpoint Charlie);Stadtmitte
+demand;150;95;de:11000:900051201;de:11000:900051301;Freie Universität (Thielplatz);Oskar-Helene-Heim
+demand;151;47;de:11000:900017103;de:11000:900056104;Gleisdreieck;Bülowstr.
+demand;152;154;de:11000:900100013;de:11000:900100014;Spittelmarkt;Märkisches Museum
+demand;153;59;de:11000:900023101;de:11000:900023201;Ernst-Reuter-Platz;Zoologischer Garten Bhf
+demand;154;86;de:11000:900042101;de:11000:900043201;Spichernstr.;Güntzelstr.
+demand;155;62;de:11000:900023202;de:11000:900042101;Augsburger Str.;Spichernstr.
+demand;156;64;de:11000:900023203;de:11000:900023301;Kurfürstendamm;Uhlandstr.
+demand;157;5;de:11000:900003201;de:11000:900003254;Berlin Hauptbahnhof;Bundestag
+demand;158;78;de:11000:900034101;de:11000:900036101;Paulsternstr.;Rohrdamm
+demand;159;111;de:11000:900068101;de:11000:900068201;Paradestr.;Tempelhof
+demand;160;138;de:11000:900100001;de:11000:900100019;Friedrichstr. Bhf;Oranienburger Tor
+demand;161;140;de:11000:900100003;de:11000:900100004;Alexanderplatz Bhf;Jannowitzbrücke
+demand;162;98;de:11000:900051302;de:11000:900051303;Podbielskiallee;Dahlem-Dorf
+demand;163;61;de:11000:900023201;de:11000:900056101;Zoologischer Garten Bhf;Wittenbergplatz
+demand;164;9;de:11000:900005252;de:11000:900017103;Mendelssohn-Bartholdy-Park;Gleisdreieck
+demand;165;66;de:11000:900023203;de:11000:900056101;Kurfürstendamm;Wittenbergplatz
+demand;166;153;de:11000:900100012;de:11000:900100013;Hausvogteiplatz;Spittelmarkt
+demand;167;96;de:11000:900051201;de:11000:900051303;Freie Universität (Thielplatz);Dahlem-Dorf
+demand;168;10;de:11000:900005252;de:11000:900100020;Mendelssohn-Bartholdy-Park;Potsdamer Platz Bhf
+demand;169;155;de:11000:900100014;de:11000:900100015;Märkisches Museum;Klosterstr.
+demand;170;144;de:11000:900100003;de:11000:900100045;Alexanderplatz Bhf;Rotes Rathaus
+demand;171;65;de:11000:900023203;de:11000:900042101;Kurfürstendamm;Spichernstr.
+demand;172;141;de:11000:900100003;de:11000:900100015;Alexanderplatz Bhf;Klosterstr.
+demand;173;70;de:11000:900025202;de:11000:900025203;Ruhleben;Olympia-Stadion
+demand;174;151;de:11000:900100011;de:11000:900100012;Stadtmitte;Hausvogteiplatz
+demand;175;150;de:11000:900100010;de:11000:900100020;Anton-Wilhelm-Amo-Str.;Potsdamer Platz Bhf
+demand;176;149;de:11000:900100010;de:11000:900100011;Anton-Wilhelm-Amo-Str.;Stadtmitte
+demand;177;139;de:11000:900100001;de:11000:900100513;Friedrichstr. Bhf;Unter den Linden
+demand;178;152;de:11000:900100011;de:11000:900100513;Stadtmitte;Unter den Linden
+demand;179;160;de:11000:900100045;de:11000:900100537;Rotes Rathaus;Museumsinsel
+demand;180;60;de:11000:900023201;de:11000:900023203;Zoologischer Garten Bhf;Kurfürstendamm
+demand;181;161;de:11000:900100513;de:11000:900100537;Unter den Linden;Museumsinsel
+demand;182;159;de:11000:900100025;de:11000:900100513;Brandenburger Tor;Unter den Linden
+demand;183;6;de:11000:900003254;de:11000:900100025;Bundestag;Brandenburger Tor
