@@ -24,7 +24,7 @@ Abgabe: 16.10.2026
 Bemerkung: Für die Durchführung der 1000 Zufallsläufe muss in `simulate.py` die entsprechende Konstante angepasst werden und der `ergebnisse`-Ordner gesichert werden, da er sonst überschrieben wird.
 
 ## Verarbeitungskette
-
+´´´
   GTFS/  +  bloecke_ew2025.geojson
                │
         ┌──────▼───────┐
@@ -45,7 +45,7 @@ Bemerkung: Für die Durchführung der 1000 Zufallsläufe muss in `simulate.py` d
                │                                    │
      ausfaelle_detail.csv                     netzkarte.svg
 
-
+´´´
 ## Voraussetzungen und Installation
 
 Empfohlen wird Python 3.14, da auch  die Implementierung in 3.14 stattfand.
