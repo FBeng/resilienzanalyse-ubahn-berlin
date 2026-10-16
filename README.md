@@ -40,7 +40,7 @@ Bemerkung: Für die Durchführung der 1000 Zufallsläufe muss in `simulate.py` d
         ergebnisse/*.csv             │              │
                │                     │              │
         ┌──────▼──────┐              │       ┌──────▼──────┐
-        │ evaluate2.py │◄─────────────┘       │  netvis.py  │
+        │ evaluate2.py │◄────────────┘       │  netvis.py  │
         └──────┬──────┘                      └──────┬──────┘
                │                                    │
      ausfaelle_detail.csv                     netzkarte.svg
@@ -48,7 +48,7 @@ Bemerkung: Für die Durchführung der 1000 Zufallsläufe muss in `simulate.py` d
 
 ## Voraussetzungen und Installation
 
-Empfohlen wird Python 3.14, da auch  die Implementierung in 3.14 stattfand.
+Empfohlen wird Python 3.14, da auch die Implementierung in 3.14 stattfand.
 
 Zuerst sollte im Projektordner eine virtuelle Umgebung angelegt weden. Sie hält die Bibliotheken getrennt vom restlichen System:
 
@@ -169,7 +169,7 @@ identisch. Nur `laufzeiten.csv` weicht ab, weil sie gemessene Uhrzeiten enthält
 | Ordner | Lauf | Verwendung in der Arbeit |
 |---|---|---|
 | `ergebnisse/` | Hauptlauf mit 100 Zufallsdurchläufen (`N_RANDOM_RUNS = 100`, `SEED = 42`) | Grundlage aller Abbildungen, Tabellen und Zahlen in Kapitel 6 |
-| `ergebnisse_1000/` | Kontrolllauf mit 1.000 Zufallsdurchläufen, sonst identisch | nur Abschnitt 5.3: Prüfung, ob 100 Läufe ausreichen |
+| `ergebnisse_1000/` | Kontrolllauf mit 1.000 Zufallsdurchläufen, sonst identisch |
 
 Zuordnung der Abbildungen und Tabellen der Arbeit zu den Dateien in `ergebnisse/`:
 
@@ -181,7 +181,7 @@ Zuordnung der Abbildungen und Tabellen der Arbeit zu den Dateien in `ergebnisse/
 | Abb. 4 | Mittlere Pfadlänge der gezielten Szenarien | `verlauf_apl.csv`, Kipppunkte aus `kennzahlen.csv` |
 | Tab. 1 | Die ersten acht Ausfälle der gezielten Szenarien | `ausfaelle_detail.csv` (erzeugt von `evaluate2.py`) |
 | Tab. 2 | Kipppunkte der Ausfallszenarien | `kennzahlen.csv` |
-| Tab. A1 | Entfernte Scheinkanten | keine CSV, ergibt sich aus `build_graph.py` (Abschnitt "Scheinkanten entfernen") |
+| Tab. A1 | Entfernte Scheinkanten | keine CSV, ergibt sich aus `build_graph.py` |
 | Tab. A2 | Gemessene Laufzeiten | `laufzeiten.csv` |
 
 R-Index und Überschneidung der Top-20-Listen im Text stehen ebenfalls in `kennzahlen.csv`.
